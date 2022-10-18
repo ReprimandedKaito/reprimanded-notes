@@ -13,7 +13,7 @@ _Uploaded: 2018._
     * 02. Terranigma (intrigued me)
     * 01. Radiant Historia (intrigued me)
 
-- [**ProJared's** Top Ten JRPGs (NOT From Square Enix)](https://www.youtube.com/watch?v=6w1v4p-Z4vE)
+- [**ProJared**'s Top Ten JRPGs (NOT From Square Enix)](https://www.youtube.com/watch?v=6w1v4p-Z4vE)
 _Uploaded: 2014._
     * 10. Wild Arms
     * 09. Phantasy Star 4
@@ -25,6 +25,13 @@ _Uploaded: 2014._
     * 03. Breath of fire 4 (or 3)
     * 02. Skies of Arcadia Legends
     * 01. Suukoden II
+
+- **ProJared**'s top 10 games of 2017 (partial)
+    * Doki Doki
+    * Cuphead
+    * Nier Automata
+    * Persona 5
+    * Zelda: Breath of the Wild
 
 ---
 
