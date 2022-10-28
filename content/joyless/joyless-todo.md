@@ -308,6 +308,46 @@ Still publishing, airing, hasn't aired yet, or on hiatus.
 - [ ] Omniscient Reader `[manga][manhwa][mal:manga:132214][mangaupdates:series:50369844984]`
     * Status: Still publishing? Yes, as of 2022-10-18.
 
+
+From Chaos
+-----------
+
+### To watch
+
+- [ ] Kingpin Katie `[series][imdb:tt10450860]`
+
+- [ ] American Idol S12 `["Nicki Minaj was a judge"]`
+
+- [ ] Senn `[2013][imdb:tt3358654][website:sennition.com]["uses the conlang Siinyamda"]`
+
+- [ ] Augustine: Son of Her Tears `[website:augustinefilm.com]["ChristianityToday.com wrote about it"]`
+
+- [ ] The Broken `[2008]["stars 'Cersei Lannister'"]`
+    * ![Screenshot from 2019-07-18 16-13-58](https://user-images.githubusercontent.com/32184973/61715365-e1e12e80-ad54-11e9-8d56-131359667b15.png)
+
+### To read
+
+- [ ] Dollhouse: Epitaphs `[comic book]`
+  * FANDOM: https://dollhouse.fandom.com/wiki/Epitaphs
+  * Goodreads: https://www.goodreads.com/en/book/show/13088716-dollhouse
+  * ThePirateBay (no seeders): https://thepiratebay.org/torrent/8096924/Dollhouse__Epitaphs_1-5___One-Shot_(2011)_(Minutemen-DTs)
+
+- [ ] Alice in Verse: The Lost Rhymes of Wonderland `[novel][poetry]`
+  * Wikipedia: https://en.wikipedia.org/wiki/Alice_in_Verse:_The_Lost_Rhymes_of_Wonderland
+  * Goodreads: https://www.goodreads.com/book/show/6999049-alice-in-verse
+
+- Books by David J. Lieberman
+  * Author on Goodreads: https://www.goodreads.com/author/show/54820.David_J_Lieberman
+  * [x] Get Anyone To Do Anything
+  * [x] Never Be Lied To Again
+  * [ ] everything else~
+
+- Books by Mortimer J. Adler
+  * [x] Aristotle for Everybody
+  * [ ] The Common Sense of Politics
+  * [ ] Ten Philosophical Mistakes
+  * [ ] Some Questions About Language
+
 ---
 
 FIN.

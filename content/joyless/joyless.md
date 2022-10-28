@@ -2,20 +2,31 @@
 
 My `joyless-XXXX.md` files actually serve as "game backlogs".
 
-**Abbreviations**:
-- LP: Let's Play
+- Unless otherwise specified, it is a film and is in English.
 
-**My labels/URNs**:
+**Abbreviations**:
+- LP: Let's Play or Longplay
+
+
+Labels
+-------
+
+**My labels/URNs**
+
 - `[mangaupdates:series:{seriesId}]` => `https://api.mangaupdates.com/v1/series/{seriesId}`
 
 - `[igdb:game:{gameId}]` => `https://www.igdb.com/g/{gameId.toString(36)}`
 
-**MAL labels**:
-- "rec-by:{person}" means this thing was "recommended to me by that person"
+- `imdb` (IMDb.com), `vndb` (VNDB.org), `ann` (AnimeNewsNetwork.com)
+- `S` (season number) and `E` (episode number)
+
+- `opinion`: liked, disliked, ok, meh, or a 1-10 rating
+
+- "`rec-by:{person}`" means this thing was "recommended to me by that person"
 
 
 What id to use
-===============
+---------------
 
 - Anime? **MAL**
 - Manga? **MAL** and **mangaupdates** or **mangadex** if not completed
@@ -28,6 +39,7 @@ What id to use
     - Vocaloid? **VOCADB**
     - Else **YouTube**
     - Possible: **musicbrainz** or **spotify**
+
 
 Name format
 ------------

@@ -218,12 +218,14 @@ Joyless 2022
     * I've only watched it because it stars the hazel-eyed, Irish, pretty boy Robert Sheehan.
     * There was no new idea, and the rehashed concepts were not implemented expectionally or impressively.
 
+- 3-gatsu no Lion (season 1) `[anime][mal:anime:31646][season:1][episodes:11][opinion:ok]`
+    * Eisuke recommended it.
+    * Dropped/Stopped at S01E11. It was fine, just not my type.
+
+- Archer (season 13) `[cartoon][opinion:ok]`
+
 
 ## Doing
-
-- [~] 3-gatsu no Lion `[anime][mal:anime:31646]`
-    * Eisuke rec.
-- [ ] 3-gatsu no Lion 2nd Season `[mal:anime:35180]`
 
 - I Hear the Sunspot `[manga][shounen-ai][mal:manga:84255][mangaupdates:1687998587][publisher:One Peace Books]`
     * https://www.mangaupdates.com/series.html?id=106455
@@ -247,8 +249,6 @@ Joyless 2022
 - [ ] Nope `[film][2022][imdb:tt10954984][rewatch]`
 
 - [ ] Westworld (season 04) `[series]`
-
-- [ ] Archer (season 13) `[cartoon]`
 
 ---
 
