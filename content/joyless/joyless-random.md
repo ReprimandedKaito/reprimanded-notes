@@ -21,14 +21,23 @@
 
 - Inception `[2010]`
 
-- Dollhouse S01-02 + Extras `[480p][opinion:liked]`
 
-- Nikita `[720][opinion:liked]`
+- Nikita `[series][imdb:tt1592154][opinion:liked]`
 
 - Tower of God `[anime]`
+
 - Big Hero 6 `[film][animation][French dub]`
 
 - The Hunger Games films
+
+## Dollhouse
+- Dollhouse `[series][imdb:tt1135300][seasons:02][opinion:liked]`
+    * Casts Summer Glau (Cameron from Terminator: TSCC).
+    * [ ] Download https://1337x.to/torrent/3804803/Dollhouse-Season-1-and-2-Mp4-x264-AC3-1080p/
+- Epitaph One `[imdb:tt1417754]`
+- Epitaph Two: Return `[imdb:tt1537130]`
+- Echo `[imdb:tt1415018]`
+    * The original unaired pilot.
 
 ## The Matrix
 - The Matrix `[1999]`
@@ -62,7 +71,7 @@
 - Terminator Genisys `[2015][French dub]`
 - Terminator: Dark Fate `[2019]`
 
-
+## Starring Queen Latifah
 - Set It Off `[1996][stars:Queen Latifah]`
     * Apparently I have already watched it years ago (in 2017, I think).
 - Taxi `[2004][stars:Queen Latifah]`
@@ -73,3 +82,7 @@
 - Steel Magnolias `[2012][stars:Queen Latifah]`
 - Bessie `[2015][stars:Queen Latifah]`
 - Girls Trip `[2017][stars:Queen Latifah]`
+
+---
+
+END.

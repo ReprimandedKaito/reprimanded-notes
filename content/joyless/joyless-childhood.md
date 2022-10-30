@@ -12,8 +12,8 @@ Watched as a child.
 - Silverwing `[cartoon][Arabic dub][imdb:tt0380955][opinion:liked]`
 
 - Redwall `[cartoon][Arabic dub][opinion:liked][imdb:tt0200369]`
-    * Rewatched Episode 11: Asmodeus (English dub).
     * I remember thinking it was epic.
+    * Rewatched Episode 11: Asmodeus (English dub).
     * [ ] Isn't "Smodios" (a word I vaguely remember repeating as a child) just a mispronounciation of Asmodeus?
     * "Zaba-ba" (shrew in English) is the mole-like animal.
     * I've been searching for this series for a long time. Apparently "an animated series about a mouse and a blind snake" wasn't a good enough hint for Google.

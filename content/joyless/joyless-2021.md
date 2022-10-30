@@ -1,15 +1,15 @@
 # Joyless 2021
 
-- Spiritpact S01 `[anime][Chinese][English sub][S:01][BL]["subbed by E.P. of Bayi Subs"][aka:"Ling Qi", "Spirit Contract"][MAL:anime/33605][opinion:4/10]`
+- Spiritpact (season 01) `[anime][Chinese][English sub][S:01][BL]["subbed by E.P. of Bayi Subs"][aka:"Ling Qi", "Spirit Contract"][MAL:anime:33605][opinion:4/10]`
     * The first episode reminds me of YYH's E01.
     * The unsynched subs were super annoying and irritating and made the anime unejoyable.
-- Spiritpact S02 `[anime][Japanese][English sub][S:02][BL]["on Crunchyroll"]["I'm still confused though, what actually happened?"][MAL:anime/36522][opinion:5/10]`
+- Spiritpact (season 02) `[anime][Japanese][English sub][S:02][BL]["on Crunchyroll"]["I'm still confused though, what actually happened?"][MAL:anime:36522][opinion:5/10]`
 
-- The Emperor's Strategy `[anime][Chinese][BL][aka:"Diwang Gonglue"][MAL:anime/37563]["The story and settings are confusing to me"]`
+- The Emperor's Strategy `[anime][Chinese][BL][aka:"Diwang Gonglue"][MAL:anime:37563]["The story and settings are confusing to me"]`
 
-- The Highschool Life of a Fudanshi `[anime][BL]["watched on Crunchyroll."][MAL:anime/33222][opinion:meh]`
+- The Highschool Life of a Fudanshi `[anime][BL]["watched on Crunchyroll."][MAL:anime:33222][opinion:meh]`
 
-- Given: The Movie `[2020][anime][film][BL][imdb:tt11802992][MAL:anime/40421][opinion:ok]`
+- Given: The Movie `[2020][anime][film][BL][imdb:tt11802992][MAL:anime:40421][opinion:ok]`
 
 - The Onion - Sex House `[series][parody][imdb:tt2316082][opinion:liked]`
 
@@ -25,14 +25,15 @@
 - Paris Is Burning `[1990][film][gay][documentary][imdb:tt0100332][opinion:liked]`
     * I watched it because RuPaul's Drag Race was said to be heavily inspired by it, and I agree with them.
 
-- The Rising of the Shield Hero `[anime][MAL:anime/35790]["watched English dub on Crunchyroll"][opinion:liked]`
+- The Rising of the Shield Hero (season 1) `[anime][MAL:anime:35790][English dub][opinion:liked]`
+    * Watched English dub on Crunchyroll.
     * Not the story, but more like its presentation.
       The whole thing feels like a legit JRPG experience (similar tropes and mechanisms as traditional JRPGs like Chrono Trigger and Final Fantasy).
       By mechanisms, I meant "narrative devices" are similar to video game's.
 
 - The Castle In The Sky `[1986][film][anime][opinion:ok]`
 
-- Fist of the North Star `[anime][English sub][MAL:anime/967][opinion:liked]`
+- Fist of the North Star `[anime][English sub][MAL:anime:967][opinion:liked]`
   * It gets predictable very soon. Same formula virtually every episode:
     Go to an oppressed town, meet a nice person who does a nice guesture for Kenshiro, that person gets killed, Kenshiro stronger with sadness/rage and avenges them, liberating the town and inspiring the townpeople in the process.
 - Fist of the North Star 2 `[anime][MAL:anime:1356]`
@@ -45,20 +46,21 @@
     * E119 "The Emperor's Cries Echoes Through the Imperial Capital. Falco, Where Have You Gone" at 13:45 - Using Bruse Lee sticks(?)
 - [ ] Fist of the North Star OVAs and films
 
-- Straight Outta Oz (Deluxe) - Todrick Hall `[music][album][gay][url:https://www.youtube.com/watch?v=4mUSwHhJ6zA][opinion:liked]`
+- Straight Outta Oz (Deluxe) - Todrick Hall `[music][album][gay][opinion:liked]`
+    * [Todrick Hall - Straight Outta Oz (Deluxe Edition) | YouTube](https://www.youtube.com/watch?v=4mUSwHhJ6zA)
 - Forbidden - Todrick Hall `[music][album][opinion:liked]`
-  * [FORBIDDEN by Todrick Hall (YouTube)](https://www.youtube.com/watch?v=j8giXiRyGbg)
+    * [FORBIDDEN by Todrick Hall | YouTube](https://www.youtube.com/watch?v=j8giXiRyGbg)
 
-- Mob Psycho 100 `[anime][English sub][S:02]["from HorribleSubs"][MAL:anime/32182][opinion:liked]`
+- Mob Psycho 100 `[anime][English sub][S:02]["from HorribleSubs"][MAL:anime:32182][opinion:liked]`
     * Liked the OP of the anime, the 3D animation part and all.
     * Didn't the like the second season as much since it stopped being a psyche anime and turned into a super hero one.
 
-- Are You Lost? `[anime][AKA:"Sounan Desu ka?"][MAL:anime/39456][opinion:ok][rec-by:repu]`
+- Are You Lost? `[anime][AKA:"Sounan Desu ka?"][MAL:anime:39456][opinion:ok][rec-by:repu]`
 
-- Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare  
-  `[anime][Arabic sub]["confusing, as I haven't watch any of the previous Gintama entries"][MAL:anime/15335]`
+- Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare `[anime][Arabic sub][MAL:anime:15335]`
+    * Confused, I didn't understand it because I haven't watch any of the previous Gintama entries.
 
-- Golden Boy `[anime][English dub][MAL:anime/268][opinion:liked]`
+- Golden Boy `[anime][English dub][MAL:anime:268][opinion:liked]`
     * Watched because I've seen a clip of episode 1 where he talks about his computing experience.
     * Also, watched it because ProJared mentioned this anime in a positive light and said he was a true gentleman (YouTube video title: "Predicting The Game Awards")
 
@@ -74,7 +76,7 @@
     * [x] Download English subtitles: https://kitsunekko.net/dirlist.php?dir=subtitles%2FYami+no+Matsuei%2F `[saved:Yami_no_Matsuei_2000_Eng.rar]`
     * I could not download subs from https://wiki2.org/en/Descendants_of_Darkness
 
-- Invincible `[cartoon][season:01][imdb:tt6741278][opinion:liked]`
+- Invincible `[cartoon][S:01][imdb:tt6741278][opinion:liked]`
     * 2021-05-07 Bari sent it to me.
     * S01E01: The first episode's ending left me gagging for more! 😲
     * S01E05:  In _Scene 31_, the way the "war hammer-wielding"(?), white lion-like monster was killing others kind of mirror's the first episode's killings. It was goose-bump-y.
@@ -87,15 +89,15 @@
 
 - ReLIFE `[manga][MAL:manga:78523][opinion:liked]`
 
-- Zetsuai 1989 `[anime][MAL:anime/1041][opinion:liked]`
+- Zetsuai 1989 `[anime][MAL:anime:1041][opinion:liked]`
     * It is melodramatic, as Wikipedia describes it.
     * I think its name is cool: **Zetsu**ai = **Eternal** Love and hints at Desperate Love (**Zetsu**bou).
     * English subbed by Orphan Fansubs.
-- Bronze: Zetsuai Since 1989 `[anime][MAL:anime/1042][opinion:ok]`
+- Bronze: Zetsuai Since 1989 `[anime][MAL:anime:1042][opinion:ok]`
 - Bronze: Kouji Nanjo Cathexis `[anime][music][MAL:anime:3007][opinion:meh]`
     * To be honest, I didn't understand the songs' stories.
 
-- Archer Season 11 `[cartoon][opinion:liked]`
+- Archer (season 11) `[cartoon][opinion:liked]`
     * S11 is fine. Cheryl Tunt and Malory Archer are amazing as ever.
 
 - It's Only the End of the World `[film][2016][French][English subbed][alt:"Juste la fin du monde"][imdb:tt4645368][opinion:liked]`
@@ -122,25 +124,25 @@
 - Mushoku Tensei: Jobless Reincarnation `[anime][MAL:anime:39535][Japanese][English sub][opinion:liked]`
 
 - Grimgar: Ashes and Illusions `[anime][English dub][MAL:anime:31859]["RPG-themed, a la League"][opinion:ok]`
-- Grimgar: Ashes and Illusions Special `[MAL:anime/32561]`
+- Grimgar: Ashes and Illusions Special `[MAL:anime:32561]`
 
-- Attack On Titan Season 4 Part 1 `[anime]`
-    * AoT S04 P1's opening music video is SICKENING!
+- Attack On Titan (season 4, part 1) `[anime]`
+    * AoT S04 P.1's opening music video is SICKENING!
     The music/sounds, colorful explosions, colorless statues(?), and especially the military match. Ahhhh. 
 
-- The Simpsons Season 31 `[opinion:disliked]`
+- The Simpsons (season 31) `[opinion:disliked]`
 
-- No Game, No Life Season 1 `[anime][MAL:anime:19815][opinion:liked]`
+- No Game, No Life (season 1) `[anime][MAL:anime:19815][opinion:liked]`
     * The art style is cool. I especially liked Sora's character design.
 - No Game No Life: Zero `[anime][film][MAL:anime:33674][opinion:liked]`
 
 - The Stranger by the Beach `[anime][film][2020][shounen-ai][Japanese dub][opinion:liked]`
 
-- The Promised Neverland S02 `[anime][MAL:anime:39617][opinion:ok]`
+- The Promised Neverland (season 02) `[anime][MAL:anime:39617][opinion:ok]`
 
 - The Other Woman `[film][2014][opinion:disliked]`
 
-- Junjou Romantica S01 `[anime][shounen-ai][opinion:meh]`
+- Junjou Romantica (season 01) `[anime][shounen-ai][opinion:meh]`
 
 - A Quiet Place Part II `[film][horror][2021][opinion:meh]`
 
@@ -152,7 +154,7 @@
 
 - The 4400 `[series][imdb:tt0389564][opinion:ok]`
     * Summer Glau played a role in it.
-    * Season 1 was fine, but the series kept getting cringier by the season, until the last season, Season 4.
+    * Season 01 was fine, but the series kept getting cringier by the season, until the last season, Season 04.
 
 - Wolf Walkwalkers `[film][2020][animation][opinion:meh]`
 
@@ -172,7 +174,7 @@
     * Downloaded from Nyaa.si user _Samir755_.
     * I loved Gon's and Hisoka's Japanese voices. Killua's was cool, too.
 
-- Arcane `[animation][opinion:liked]`
+- Arcane (season 01) `[animation][opinion:liked]`
 
 - Moonlight `[film][2016][gay][opinion:ok]`
 

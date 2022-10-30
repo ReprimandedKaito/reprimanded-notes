@@ -1,5 +1,4 @@
-Joyless 2022
-=============
+# Joyless 2022
 
 - Jobless Reincarnation (season 2) `[anime][mal:anime:45576][opinion:loved]`
 
@@ -23,7 +22,7 @@ Joyless 2022
 - Peter Grill To Kenja No Jikan `[anime][icchi]`
     * The ending music is cool.
 
-- To Your Eternity (Season 1) `[anime][English sub][mal:anime:41025][AKA:Fumetsu no Anata e][opinion:liked]`
+- To Your Eternity (season 1) `[anime][English sub][mal:anime:41025][AKA:Fumetsu no Anata e][opinion:liked]`
     * The whole thing was wholesome, except the last arc --prison island-- felt off.
     * This anime is based on a manga by Yoshitoki Ooima, who created _A Silent Voice_!
 
@@ -224,6 +223,12 @@ Joyless 2022
 
 - Archer (season 13) `[cartoon][opinion:ok]`
 
+- The Starving Games `[film][2013][parody][imdb:tt2403029][opinion:ok]`
+    * It had a 3/10 IMDb rating when I added it to my watchlist.
+    * For a parody movie, I think it was _fine_. It made me laugh a few times.
+
+- Geostorm `[2017][scifi][casts:Robert Sheehan][opinion:meh]`
+
 
 ## Doing
 
@@ -249,6 +254,7 @@ Joyless 2022
 - [ ] Nope `[film][2022][imdb:tt10954984][rewatch]`
 
 - [ ] Westworld (season 04) `[series]`
+    * There are 1080p Web episodes on RARPG. I want Bluray, tho.
 
 ---
 

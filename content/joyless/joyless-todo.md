@@ -22,13 +22,13 @@
 - [ ] Red Riding: In The Year Of Our Lord 1974 `[2009]`
 - [ ] Red Riding: In The Year Of Our Lord 1980 `[2009]`
 - [ ] Red Riding: In The Year Of Our Lord 1983 `[2009]`
-
-- [ ] Altered Carbon: Resleeved `[film][animation][2020][imdb:tt9310328]`
-    * [ ] Download Japanese dub
-    * [ ] Download English dub
-
-- [ ] The Starving Games `[film][2013][parody][imdb:tt2403029][imdb.rating:3/10]`
     * Downloaded
+
+- [ ] Altered Carbon: Resleeved `[film][animation][English dub][2020][imdb:tt9310328]`
+    * Downloaded
+
+- [ ] Oxygen `[2021][French]`
+    * Downloaded.
 
 ---
 
