@@ -8,6 +8,7 @@
 
 - [ ] Memento `[2000]`
     * Downloaded
+    * Memento (film) uses a nonlinear narrative.
 
 - [ ] A Writers Odyssey `[2021]`
     * Downloaded
@@ -26,9 +27,6 @@
 
 - [ ] Altered Carbon: Resleeved `[film][animation][English dub][2020][imdb:tt9310328]`
     * Downloaded
-
-- [ ] Oxygen `[2021][French]`
-    * Downloaded.
 
 ---
 

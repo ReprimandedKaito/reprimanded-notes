@@ -201,8 +201,7 @@
 - Pan's Labyrinth `[2006][Spanish][English sub][opinion:liked]`
 
 - The Platform `[2019][English dub][opinion:loved]`
-
-- [ ] The Platform `[2019][Spanish][English sub]`
+- The Platform `[2019][Spanish][English sub]`
 
 - Circle `[2015][imdb:tt3118452][opinion:meh]`
 
@@ -228,6 +227,18 @@
     * For a parody movie, I think it was _fine_. It made me laugh a few times.
 
 - Geostorm `[2017][scifi][casts:Robert Sheehan][opinion:meh]`
+
+- Oxygen `[2021][French][scifi][opinion:ok]`
+    * I had many engineering issues with the movie.
+    Examples:
+    1) She asked the AI if there were any functions she could disable without reducing her life expectancy. The AI said there were none. The AI forgot about _euthanasia_.
+    2) She did't ask the AI to filter functionalities based on how many years they reduce her life by. (Like, disabling functions that reduce the least amount of years).
+    3) Her needing to ask the AI to do voice recognition to know the identity of the woman.
+    4) Being able to reroute oxygen, her having to explicity ask the AI to do that.
+    5) Needing time to ingore security restrictions and reroute oxygen. Why is this even possible?
+    6) Sometimes the AI is made to seem smart (understanding and suggesting complex thoughts/plans) and other times they are super dumb (suggesting sedatives, but not to reroute oxygen;)
+    * "All in all, a very mediocre-bad sci-fi movie. Reminded me of Gravity in many ways."
+      -- https://www.reddit.com/r/movies/comments/ncolxy/comment/gy8lm38/?utm_source=share&utm_medium=web2x&context=3
 
 
 ## Doing

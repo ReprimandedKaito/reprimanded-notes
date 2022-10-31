@@ -16,12 +16,13 @@ Labels
 - `mangaupdates:series:{seriesId}` => `https://api.mangaupdates.com/v1/series/{seriesId}`
 
 - `igdb:game:{gameId}` => `https://www.igdb.com/g/{gameId.toString(36)}`
-
-- `imdb` (IMDb.com), `vndb` (VNDB.org), `ann` (AnimeNewsNetwork.com)
+- `imdb:{id}` IMDb.com
+- `vndb:{id}` VNDB.org
+- `ann:{id}` AnimeNewsNetwork.com
 
 - `S` (season number) and `E` (episode number)
 
-- `opinion`: loved, liked, ok/fine, meh, disliked, or a 1-10 rating.
+- `opinion` = loved, liked, ok/fine, meh, disliked, or a 1-10 rating.
 
 - "`rec-by:{person}`" means this thing was "recommended to me by that person"
 

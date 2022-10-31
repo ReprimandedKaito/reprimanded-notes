@@ -1,5 +1,12 @@
 # Joyless Random
 
+- A Rose for Emily `[short story][opinion:loved]`
+    * It was recommended to me by Rabia.
+    * Has a "reverse linear"(?) narrative.
+    * https://en.wikipedia.org/wiki/A_Rose_for_Emily
+
+---
+
 - Eagle Eye `[2008]`
 
 - No Good Deed `[film][2014]`
