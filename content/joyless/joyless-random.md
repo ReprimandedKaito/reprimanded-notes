@@ -28,7 +28,6 @@
 
 - Inception `[2010]`
 
-
 - Nikita `[series][imdb:tt1592154][opinion:liked]`
 
 - Tower of God `[anime]`
@@ -89,6 +88,42 @@
 - Steel Magnolias `[2012][stars:Queen Latifah]`
 - Bessie `[2015][stars:Queen Latifah]`
 - Girls Trip `[2017][stars:Queen Latifah]`
+
+---
+
+- Hitorijime My Hero `[anime][gay][opinion:liked]`
+
+- Prayers for Bobby `[2009][gay][opinion:liked]`
+
+- Is It Just Me `[2010][gay]`
+
+- Weekend `[2011][gay]`
+
+- Out in the Dark `[2012][gay][opinion:liked]`
+
+- King Cobra `[2016][gay][opinion:liked]`
+
+- It's Only The End Of The World `[2016][gay]`
+
+- Call Me By Your Name `[2017][gay][opinion:liked]`
+
+- 120 Beats Per Minute `[2017][gay][French][English sub][imdb:tt6135348]`
+
+- Jongens `[2014][gay][English sub][alt:Boys][imdb:tt3318220]`
+
+---
+
+- Letting Go of God `[2008][imdb:tt1027091][opinion:liked]`
+
+- The Invention of Lying `[2009]`
+
+- The Man Who Sued God `[2001]`
+
+## Julia Sweeney
+- [ ] God Said, 'Ha!' `[1998][comedy][imdb:tt0119207]`
+- [ ] Letting Go of God `[2008][comedy][rewatch]`
+  * Downloaded (in watchless)
+- [ ] Work in Progress `[series][2019–2021][imdb:tt10417836]`
 
 ---
 

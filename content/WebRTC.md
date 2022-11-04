@@ -63,6 +63,17 @@ Signaling is transfering SDP (params) between browers.
         * Licode https://github.com/lynckia/licode
         * ...
 
+### NOTES: How to Build an End-to-End WebRTC Service (Kranky Geek WebRTC Brazil 2016)
+by Daniel
+https://www.youtube.com/watch?v=nPnWIuAlphc
+opinion: ok
+
+Talks about:
+- Mainly WebRTC Signaling
+- Quality of Service (at least once, exactly once, etc.)
+- DNS-based system sharding
+
+
 ---
 
 END.
