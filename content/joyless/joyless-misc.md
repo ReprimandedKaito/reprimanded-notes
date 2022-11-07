@@ -34,7 +34,23 @@
 
 - Big Hero 6 `[film][animation][French dub]`
 
-- The Hunger Games films
+- Hercules `[1997]`
+
+- Mulan `[1998]`
+
+- WALL-E `[2008]`
+
+- The Giver `[2014]`
+
+- Inside Out `[2015]`
+
+- Zootopia `[2016]`
+
+- Moana `[2016]`
+
+
+## The Hunger Games films
+\[...]
 
 ## Dollhouse
 - Dollhouse `[series][imdb:tt1135300][seasons:02][opinion:liked]`
@@ -52,16 +68,10 @@
 - The Animatrix `[2003]`
 
 ## The Chronicles of Riddick (franchise)
-- Pitch Black `[2000][stars:Vin Diesel]
+- Pitch Black `[2000][stars:Vin Diesel]`
 - The Chronicles of Riddick `[2004]`
 - [ ] The Chronicles of Riddick: Dark Fury `[2004]`
 - Riddick `[2013]`
-
-## Cube
-- Cube `[1997]`
-    * Recommended by Wanis.
-- Cube Hypercube `[2002]`
-- Cube Zero `[2004]`
 
 ## The Purge
 - The Purge `[2013]`
@@ -69,7 +79,7 @@
 - The Purge: Election Year `[2016]`
 - The First Purge `[2018][imdb:tt6133466]`
 
-## The Terminator series
+## The Terminator
 - The Terminator `[1984]`
 - Terminator 2: Judgment Day `[1991]`
 - Terminator 3: Rise of the Machines `[2003]`
@@ -88,6 +98,31 @@
 - Steel Magnolias `[2012][stars:Queen Latifah]`
 - Bessie `[2015][stars:Queen Latifah]`
 - Girls Trip `[2017][stars:Queen Latifah]`
+
+## Fantastic Beasts
+- Fantastic Beasts And Where To Find Them `[2016]`
+- Fantastic Beasts: The Crimes Of Grindelwald `[2018]`
+- [ ] Fantastic Beasts: The Secrets of Dumbledore `[2022]`
+
+## Resident Evil
+- Resident Evil `[2002]`
+- Resident Evil: Apocalypse `[2004]`
+- Resident Evil: Extinction `[2007]`
+- Resident Evil: Degeneration `[2008][animation]`
+- Resident Evil: Afterlife `[2010]`
+- Resident Evil: Damnation `[2012][animation]   `
+- Resident Evil: Retribution `[2012]`
+- Resident Evil: The Final Chapter `[2016]`
+- Resident Evil: Vendetta `[2017][animation]`
+- [ ] Resident Evil: Welcome to Raccoon City `[2021][reboot]`
+
+## Underworld
+- Underworld `[2003][Extended Cut]`
+- Underworld: Evolution `[2006]`
+- Underworld: Rise of the Lycans `[2009]`
+- Underworld: Awakening `[2012]`
+- Underworld: Blood Wars `[2016]`
+- Underworld: Endless War `[2011][animation][imdb:tt2381375]`
 
 ---
 
@@ -118,12 +153,6 @@
 - The Invention of Lying `[2009]`
 
 - The Man Who Sued God `[2001]`
-
-## Julia Sweeney
-- [ ] God Said, 'Ha!' `[1998][comedy][imdb:tt0119207]`
-- [ ] Letting Go of God `[2008][comedy][rewatch]`
-  * Downloaded (in watchless)
-- [ ] Work in Progress `[series][2019–2021][imdb:tt10417836]`
 
 ---
 

@@ -17,6 +17,9 @@
     * Downloaded
     * Stars that woman from Still Alice.
 
+- [ ] Altered Carbon: Resleeved `[film][animation][English dub][2020][imdb:tt9310328]`
+    * Downloaded
+
 - [ ] Belle `[2021][AKA:Ryuu to Sobakasu no Hime][mal:anime:44807]`
     * Downloaded
 
@@ -25,37 +28,41 @@
 - [ ] Red Riding: In The Year Of Our Lord 1983 `[2009]`
     * Downloaded
 
-- [ ] Altered Carbon: Resleeved `[film][animation][English dub][2020][imdb:tt9310328]`
-    * Downloaded
+- [ ] Kingpin Katie `[series][imdb:tt10450860]`
+    * Downloading...
+
+- [ ] Senn `[2013][imdb:tt3358654][website:sennition.com]["uses the conlang Siinyamda"]`
+    * Downloading...
 
 ---
 
+- [ ] Augustine: Son of Her Tears `[2019][website:augustinefilm.com][imdb:tt12971100]["ChristianityToday.com wrote about it"]`
+
+- [ ] The Broken `[2008]["stars 'Cersei Lannister'"][imdb:tt0906734]`
+
 - [ ] Mekakucity Actors `[anime][mal:anime:21603]`
+    * Downloaded
     * Kaito: The art style seemed interesting.
     * "Mekakucity Actors" means "Blindfold-city Actors" -- https://en.wikipedia.org/wiki/Kagerou_Project
     * It started as a Vocaloid song series. -- Wikipedia
 
 - [ ] Tribe Nine `[anime][mal:anime:49969]`
+    * Downloaded
     * Shun Kamiya's English VA (Jacob Hopkins) is the same as Fushi's (of To Your Eternity).
 
 - [ ] Once Upon A Time In Wonderland (Season 1) `[series]`
+    * Downloaded
 
 - [ ] Practical Magic `[film][1998][stars:Nicole Kidman, Sandra Bullock]`
+    * Downloaded
 - [ ] The Hours `[film][2002][stars:Nicole Kidman, Meryl Streep]`
+    * Downloaded
 - [ ] Cold Mountain `[film][2003][stars:Nicole Kidman, Cillian Murphy]`
+    * Downloaded
 - [ ] Birth `[film][2004][stars:Nicole Kidman]`
+    * Downloaded
 - [ ] Rabbit Hole `[film][2010][stars:Nicole Kidman]`
-
-- [ ] Hokuto no Ken: The Movie `[film][1986][mal:anime:1358]`
-- [ ] Hokuto no Ken - Movie 2006 - The Legend of Raoh Death in Love
-- [ ] Hokuto no Ken - OVA (2007) - The Legend Of Yuria
-- [ ] Hokuto no Ken - OVA (2008) - The Legend Of Toki
-- [ ] Hokuto No Ken - Movie 2007 - The Legend Of Raoh Fierce Fight
-- [ ] Hokuto No Ken - Movie 2008 - The Legend Of Kenshiro
-
-- [ ] Shin Hokuto No Ken - OVA (2003) - Ep 01 - The Cursed City
-- [ ] Shin Hokuto No Ken - OVA (2003) - Ep 02 - The Forbidden Fist
-- [ ] Shin Hokuto No Ken - OVA (2004) - Ep 03 - When A Man Carries Sorrow
+    * Downloaded
 
 ---
 
@@ -64,14 +71,12 @@
     * [ ] Play
     * [ ] Watch LongplayArchive's LP https://www.youtube.com/watch?v=T76ikW23aNc
 
-- [~] Chrono Cross `[game][JRPG]["looks colorful and relaxing"]`
+- [ ] Chrono Cross `[game][JRPG]["looks colorful and relaxing"]`
   * Downloaded ["Chrono Cross (PSX) (PS1) (RPG) (Use ePSXe)" | TPB](https://thepiratebay.org/description.php?id=6226733)
   * Duckstation and that BIOS run it on Windows 10 x64.
 
 - [ ] Zetsubou Prison - Blue Horror Gaming's English playthrough `[game][visual novel]`
     * [ ] Completely translated? They are still working on Case 5 as of 2022-10-17.
-
----
 
 - [ ] Yu Yu Hakusho `[anime][rewatch]`
     * [ ] Download and rewatch in Japanese? Kurama's JA VA is Megumi Ogata!
@@ -105,13 +110,13 @@
 
 - [ ] Battle Angel Alita `[manga][mal:manga:768][mangaupdates:series/2157]`
     * Reddit, what edition of Alita should I read?
-    - Alita [ThePirateBay]
+    - Alita `[ThePirateBay]`
         * Published by: Viz Comics
         * Translated by: Fred Burke & Sterling Bell and Matt Thorn
         * Liked the translation; signs and special effects are translated
         * Disliked its low(er) quality scans; having no colored pages
         * Remark: Vol 1 ends with Battle 7 - "Tears of an Angel"
-    - Alita [Nyaa]
+    - Alita `[Nyaa]`
         * Published by: Kodansha Comics
         * Translated by: Stephen Paul
         * Remark: Vol 1 ends with Battle 6 - "Conquering Angel" (retitled "Battle Angel")
@@ -119,16 +124,12 @@
 
 - [ ] The Hobbit franchise `[rewatch]`
 
--  [ ] Saw franchise https://en.wikipedia.org/wiki/Saw_(franchise)
-    * [ ] rewatch Saw films 
-    * [ ] Spiral (2021)
-    * [ ] Saw X (in-dev)
-
 - [ ] New Gods: Nezha Reborn `[film][2021][imdb:tt13269670]`
-    * CN missing subs (as of 2021-04-18) https://yts.mx/movies/nezha-reborn-2021
+    * 2022-11-07 CN missing subs https://yts.mx/movies/nezha-reborn-2021
     * Wikipedia said it's steampunk, cyberpunk, and not related to the 2019 film.
         https://en.wikipedia.org/wiki/New_Gods:_Nezha_Reborn
-- [ ] New Gods: Nezha Reborn 2 `[film][2022-summer]`
+- [ ] New Gods: Yang Jian `[film][2022][imdb:tt19757204]`
+    * 2022-11-07 Didn't find it on YTS or RARBG.
 
 - [ ] Alice in Borderland `[series][imdb:tt10795658]` 
 
@@ -157,11 +158,6 @@
 - [ ] Dr. Stone `[anime]["I think it looks cool"]`
 
 - [ ] Love, Death & Robots `[anime]`
-
-- Kaiji franchise `[anime]`
-  - [ ] Gambling Apocalypse Kaiji `[anime][imdb:tt1202625]`
-  - [ ] Kaiji: The Ultimate Gambler `[2009][imdb:tt1309449]`
-  - [ ] Kaiji2: The Ultimate Gambler `[2011][imdb:tt1904937]`
 
 - [ ] Rachida `[film][2002][imdb:tt0318011]`
 
@@ -197,8 +193,40 @@
 - [ ] Inscryption `[game][2021]["ProJared ranked it as 2nd best game of 2021"]`
 
 
-Final Fantasy
--------------
+## HNK
+- [ ] Hokuto no Ken: The Movie `[film][1986][mal:anime:1358]`
+- [ ] Hokuto no Ken - Movie 2006 - The Legend of Raoh Death in Love
+- [ ] Hokuto no Ken - OVA (2007) - The Legend Of Yuria
+- [ ] Hokuto no Ken - OVA (2008) - The Legend Of Toki
+- [ ] Hokuto No Ken - Movie 2007 - The Legend Of Raoh Fierce Fight
+- [ ] Hokuto No Ken - Movie 2008 - The Legend Of Kenshiro
+
+- [ ] Shin Hokuto No Ken - OVA (2003) - Ep 01 - The Cursed City
+- [ ] Shin Hokuto No Ken - OVA (2003) - Ep 02 - The Forbidden Fist
+- [ ] Shin Hokuto No Ken - OVA (2004) - Ep 03 - When A Man Carries Sorrow
+
+
+## Kaiji franchise `[anime]`
+- [ ] Gambling Apocalypse Kaiji `[anime][imdb:tt1202625]`
+- [ ] Kaiji: The Ultimate Gambler `[2009][imdb:tt1309449]`
+- [ ] Kaiji2: The Ultimate Gambler `[2011][imdb:tt1904937]`
+
+
+## Saw franchise
+[Saw franchise | Wikipedia](https://en.wikipedia.org/wiki/Saw_(franchise))
+* [ ] rewatch Saw films 
+* [ ] Spiral (2021)
+* [ ] Saw X (in-dev)
+
+
+## Julia Sweeney
+- [ ] God Said, 'Ha!' `[1998][comedy][imdb:tt0119207]`
+- [ ] Letting Go of God `[2008][comedy][rewatch]`
+    * Downloaded (in watchless)
+- [ ] Work in Progress `[series][2019–2021][imdb:tt10417836]`
+
+
+## Final Fantasy
 
 Note: ProJared recommends FF pixel remasters
 
@@ -219,8 +247,7 @@ Note: ProJared recommends FF pixel remasters
 - [ ] FF7R Part 2 `[2023-winter]`
 
 
-Gay shit
----------
+## Gay shit
 
 - [ ] The Founder of Diabolism `[anime][shounen-ai][Chinese][English sub][mal:anime:37208]`
     * Downloaded all 3 seasons
@@ -230,7 +257,7 @@ Gay shit
 
 - [ ] X: An Omen `[anime][OVA][French sub][mal:anime:595]`
     * "Présage" (French) is "presage" (English), which means an "omen".
-    * Downloaded [\[zza] X Clamp [576p.x265][Vostfr] | Nyaa](https://nyaa.si/view/1220154)
+    * Downloaded [`[zza] X Clamp [576p.x265][Vostfr] | Nyaa`](https://nyaa.si/view/1220154)
 - [ ] X `[anime][French sub][mal:anime:156]`
 - [ ] X - The Movie `[anime][movie][French sub][AKA:"X/1999"][mal:anime:155]`
 
@@ -296,8 +323,7 @@ Gay shit
     * https://yaoimangaonline.com/light-the-fire-by-dainyu-dougumo-dainyu-eng/
 
 
-Ongoing
-----------
+## Ongoing
 Still publishing, airing, hasn't aired yet, or on hiatus.
 
 - [ ] Tomodachi Game `[manga][psychological][MAL:manga:62795][mangaupdates:series:27592706793]`
@@ -307,23 +333,7 @@ Still publishing, airing, hasn't aired yet, or on hiatus.
     * Status: Still publishing? Yes, as of 2022-10-18.
 
 
-From Chaos
------------
-
-### To watch
-
-- [ ] Kingpin Katie `[series][imdb:tt10450860]`
-
-- [ ] American Idol S12 `["Nicki Minaj was a judge"]`
-
-- [ ] Senn `[2013][imdb:tt3358654][website:sennition.com]["uses the conlang Siinyamda"]`
-
-- [ ] Augustine: Son of Her Tears `[website:augustinefilm.com]["ChristianityToday.com wrote about it"]`
-
-- [ ] The Broken `[2008]["stars 'Cersei Lannister'"]`
-    * ![Screenshot from 2019-07-18 16-13-58](https://user-images.githubusercontent.com/32184973/61715365-e1e12e80-ad54-11e9-8d56-131359667b15.png)
-
-### To read
+## To read
 
 - [ ] Dollhouse: Epitaphs `[comic book]`
   * FANDOM: https://dollhouse.fandom.com/wiki/Epitaphs
@@ -348,4 +358,4 @@ From Chaos
 
 ---
 
-FIN.
+END.

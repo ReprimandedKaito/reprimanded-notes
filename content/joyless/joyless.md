@@ -16,8 +16,11 @@ Labels
 - `mangaupdates:series:{seriesId}` => `https://api.mangaupdates.com/v1/series/{seriesId}`
 
 - `igdb:game:{gameId}` => `https://www.igdb.com/g/{gameId.toString(36)}`
+
 - `imdb:{id}` IMDb.com
+
 - `vndb:{id}` VNDB.org
+
 - `ann:{id}` AnimeNewsNetwork.com
 
 - `S` (season number) and `E` (episode number)
@@ -47,7 +50,7 @@ What id to use
 
 Name format
 ------------
-WIP.
+TBD.
 
 - Title (Season 02, Part 1) - Author
 - Title (Season 02, Part 1) by Author
