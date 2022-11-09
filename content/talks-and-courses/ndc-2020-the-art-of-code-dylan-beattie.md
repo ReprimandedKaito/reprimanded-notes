@@ -1,6 +1,6 @@
 # The Art of Code - Dylan Beattie
 
-YouTube: https://youtu.be/6avJHaC3C2U
+YouTube https://www.youtube.com/watch?v=6avJHaC3C2U
 
 **TLDR**: Showing off creative coding shit.
 

@@ -7,5 +7,6 @@
 - [2020](./joyless-2020.md)
 - [2019](./joyless-2019.md)
 - [2018](./joyless-2018.md)
+
 - [Misc](./joyless-misc.md)
 - [Misc/Childhood](./joyless-childhood.md)

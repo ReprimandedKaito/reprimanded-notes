@@ -1,13 +1,5 @@
 # Awesome League
 
-#league #inspiration
-- https://github.com/preyneyv/league-vcs
-    * Similar to my idea using COW2 or ZPAQ
-    * `preyneyv`'s league-vcs uses a self-made VCS that relies on hashes.
-
-#league
-- Saskio uses LioranBoard (renamed to SAMMI https://sammi.solutions/) to let his mods control his client.
-
 
 ## Visual Design
 
@@ -19,6 +11,30 @@
 - Hextech CSS https://github.com/doceazedo/hextech-css
     "Hextech CSS is a framework based on Flexbox inspired by the style of the game League of Legends.
     Note that Hextech CSS is currently in development."
+
+
+## Tools
+
+- League of Items https://leagueofitems.com
+    * I like its design.
+
+#league #inspiration
+- https://github.com/preyneyv/league-vcs
+    * Similar to my idea using COW2 or ZPAQ
+    * `preyneyv`'s league-vcs uses a self-made VCS that relies on hashes.
+
+- Saskio uses LioranBoard (renamed to SAMMI https://sammi.solutions/) to let his mods control his client.
+
+- [League of Legends Practice Tool Editor](https://github.com/MManoah/league-practice-tool)
+    * "Allows user to add more bots in the practice tool"
+    * 2020-07-16 Commited 
+    * It uses _LCU Sharp_ (to access the LCU API), written in C# (.NET Framework 4.7.2).
+    * [ ] KAITO: Try!
+
+
+- [@RiotGames's League Director](https://github.com/riotgames/leaguedirector)
+    * "League Director is a tool for staging and recording videos from League of Legends replays"
+    * [x] TRY.
 
 
 ## About game assets

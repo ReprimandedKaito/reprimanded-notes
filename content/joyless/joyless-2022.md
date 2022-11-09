@@ -113,7 +113,7 @@
 - Bakemonogatari `[anime][mal:anime:5081]`
     * Araragi's Japanese voice is cool.
 
-- Given - Uragawa no Sonzai `[anime][shounen-ai][mal:anime:49053]`
+- Given: Uragawa no Sonzai `[anime][shounen-ai][mal:anime:49053]`
     * From AarinFantasy.
 
 - Under the Green Light (season 1) by JAXX `[yaoi][manhwa][mangaupdates:15270418225][opinion:liked]`
@@ -242,6 +242,27 @@
     * "All in all, a very mediocre-bad sci-fi movie. Reminded me of Gravity in many ways."
       -- https://www.reddit.com/r/movies/comments/ncolxy/comment/gy8lm38/?utm_source=share&utm_medium=web2x&context=3
 
+- Inception - Teminite `[music album][opinion:liked]["Dubstep"]`
+    * https://www.youtube.com/watch?v=0m-09mxAvlY
+
+- Bros `[2022][film][gay][opinion:ok]`
+    * For a comedy movie, it wasn't that funny.
+    * The main character (Bobby) was annoying. I hated him. He reminded me of myself.
+    * The main character's love interest (Aaron) was hot, handsome, and cool. An absolute keeper.
+    his voice was cool too.
+    * I really wished Bobby would stay stubborn until the end, lose Aaron, and regret his decision for the rest of his life. That's what Kaito would do.
+
+- The Game `[1997][film][imdb:tt0119174][opinion:ok]`
+    * Contains a song: White Rabbit - Jefferson Airplane (https://www.youtube.com/watch?v=pnJM_jC7j_4)
+    * "The first viewing gave me whiplash the way I went back and forth between thinking it was a game v. real life."
+    * "It's the point of the movie: it's a suicide intervention by his brother. \[...]"
+        -- [Reddit comment](https://www.reddit.com/r/movies/comments/nzb4ma/comment/h1p1buw/?utm_source=share&utm_medium=web2x&context=3)
+    * "It's a strange ending in a generally interesting thriller. But it does get silly.
+        I particularly like how, with all the careful planning the company did,
+        they were somehow able to choose the exact right spot to put the airbag.
+        At that point, suspension of disbelief got up and kicked me in the throat and left in a huff."
+        -- [Reddit comment](https://www.reddit.com/r/movies/comments/g5554i/comment/fo1ci3a/?utm_source=share&utm_medium=web2x&context=3) 
+
 
 ## Doing
 
@@ -249,6 +270,9 @@
     * https://www.mangaupdates.com/series.html?id=106455
 - I Hear the Sunspot: Theory of Happiness `[manga][mal:manga:112090][publisher:One Peace Books]`
 - [~] I Hear the Sunspot: Limit `[manga][mal:manga:112091][publisher:One Peace Books]`
+    * [x] Vol 1.
+    * [ ] Vol 2.
+    * [ ] Vol 3.
 
 - [~] Phoenix Wright: Ace Attorney Trilogy `[game][visual novel][vndb:r60512]`
   * [~] AA 1
@@ -268,6 +292,7 @@
 
 - [ ] Westworld (season 04) `[series]`
     * There are 1080p Web episodes on RARPG. I want Bluray, tho.
+    * "However, in November 2022, it was announced that HBO canceled the series." - Wikipedia
 
 ---
 

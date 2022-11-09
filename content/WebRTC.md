@@ -73,6 +73,40 @@ Talks about:
 - Quality of Service (at least once, exactly once, etc.)
 - DNS-based system sharding
 
+### NOTES: How Does WebRTC Work? - Crash Course
+By Dennis Ivy \
+Apr 1, 2022 \
+https://www.youtube.com/watch?v=8I2axE6j204
+
+- Opinion: Meh.
+
+- Abandonned (stopped watching).
+
+- Notes:
+    * **Trickling ICE Candidates**: Instead of generating the SDP _and_ obtaining our ICE candidates (from a STUN server for example) to send them together to our peer, we can send SDP first then follow up with ICE candidates.
+
+- Video description:
+```
+WebRTC introduction and complete project based tutorial. Build a small peer to peer video chat application with signaling.
+
+Check out the related blog post that goes with this video here: https://medium.com/agora-io/how-does-webrtc-work-996748603141
+
+Create your agora.io app here: [...]
+
+Source code: https://github.com/divanov11/WebRTC-Crash-Course
+
+Slide show images are provided in the source code.
+
+Live demo: https://divanov11.github.io/WebRTC-Simple-SDP-Handshake-Demo/
+
+Timestamps
+00:00 - Intro
+00:35 - WebRTC Intro Slides
+12:05 - Project Files Setup
+19:40 - Display Camera to Page
+23:28 - Peer Connection (SDP Offer & Answer)
+46:00 - Signaling with Agora
+```
 
 ---
 

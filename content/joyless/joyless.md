@@ -7,27 +7,50 @@ My `joyless-XXXX.md` files actually serve as "game backlogs".
 **Abbreviations**:
 - LP: Let's Play or Longplay
 
+## Technicalities
+Ideas:
+- JoylessLine is a schema Review with About links
+
 
 Labels
 -------
 
-**My labels/URNs**
+**My labels/URNs** AKA `kai-garden-urns`
 
-- `mangaupdates:series:{seriesId}` => `https://api.mangaupdates.com/v1/series/{seriesId}`
+- Anime News Network
+    `ann:{type}:{id}` => `www.animenewsnetwork.com/encyclopedia/{type}.php?id={id}`
+    type: "anime", "manga"
 
-- `igdb:game:{gameId}` => `https://www.igdb.com/g/{gameId.toString(36)}`
+- IGDB
+    `igdb:game:{gameId}` => `www.igdb.com/g/{gameId.toString(36)}`
 
-- `imdb:{id}` IMDb.com
+- IMDb
+    `imdb:{id}` => `www.imdb.com/title/{id}/`
 
-- `vndb:{id}` VNDB.org
+- MangaUpdates
+    `mangaupdates:series:{seriesId}` => `api.mangaupdates.com/v1/series/{seriesId}`
 
-- `ann:{id}` AnimeNewsNetwork.com
+- MyAnimeList
+    `mal:{type}:{id}` => `myanimelist.net/{type}/{id}`
+    type: "anime", "manga"
+
+- Steam
+    `steam:{id}` => `store.steampowered.com/app/{id}`
+    Unique
+
+- VNDB
+    `vndb:{id}` => `vndb.org/{id}`
+
+- YouTube
+    `youtube:{id}` => `www.youtube.com/watch?v={id}`
+
+---
 
 - `S` (season number) and `E` (episode number)
 
-- `opinion` = loved, liked, ok/fine, meh, disliked, or a 1-10 rating.
+- `opinion:{myOpinion}` = loved, liked, ok/fine, meh, disliked, or a 1-10 rating.
 
-- "`rec-by:{person}`" means this thing was "recommended to me by that person"
+- `rec-by:{person}` means this thing was "recommended to me by that person"
 
 - `casts:{actors}` = `stars:{actors}`
 
@@ -39,7 +62,7 @@ What id to use
 - Manga? **MAL** and **mangaupdates** or **mangadex** if not completed
 - Game?
     - VN? **VNDB**
-    - Else **IGDB**
+    - Else **IGDB** or **IMDB**
 - Film? **IMDB**
 - Series? **IMDB**
 - Music?

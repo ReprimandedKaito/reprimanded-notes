@@ -10,6 +10,9 @@
     * Downloaded
     * Memento (film) uses a nonlinear narrative.
 
+- [ ] No Country For Old Men `[2007][film][rec-by:younes]`
+    * Downloaded
+
 - [ ] A Writers Odyssey `[2021]`
     * Downloaded
 
@@ -17,7 +20,10 @@
     * Downloaded
     * Stars that woman from Still Alice.
 
-- [ ] Altered Carbon: Resleeved `[film][animation][English dub][2020][imdb:tt9310328]`
+- [ ] Coherence `[2013][film]`
+    * Downloaded
+
+- [ ] Altered Carbon: Resleeved `[film][2020][animation][English dub][imdb:tt9310328]`
     * Downloaded
 
 - [ ] Belle `[2021][AKA:Ryuu to Sobakasu no Hime][mal:anime:44807]`
@@ -273,17 +279,20 @@ Note: ProJared recommends FF pixel remasters
 - [ ] The Two Lions `[manga][shounen-ai][mal:manga:114065]`
     * Downloaded
 
+- [ ] My Own Private Idaho `[1991][film]`
+    * Downloaded
+
+- [ ] Holding the Man `[2015][film][imdb:tt3671542]`
+
 - [ ] Bromance `[2016][Spanish][imdb:tt5332158]`
     * Downloaded
 
 - [ ] Alex Strangelove `[2018][film]`
     * Downloaded
 
-- [ ] My Own Private Idaho `[1991][film]`
-    * Downloaded
-
-- [ ] A Gay's Life 
+- [ ] A Gay's Life `[video game][gay][visual novel][steam:1147500]`
     * My post: [Can somebody give me the gist of what the A Gay's Life game developer is talking about in this (Chinese) video?](https://www.reddit.com/r/gaysian/comments/dco5cw/can_somebody_give_me_the_gist_of_what_the_a_gays/)
+    * 2022-11-09 English is not supported yet.
 
 - [ ] Boys Run the Riot - Keito Gaku `[manga][gay]["more like trans"][mal:manga:124520]`
     * [x] Download.
