@@ -106,7 +106,7 @@
 
 - Dakaretai Otoko 1-i ni Odosarete Imasu. `[anime][BL][aka:DAKAICHI -I'm being harassed by the sexiest man of the year]["totally unoriginal plot, meh characters"][opinion:disliked]`
 
-- Rick and Morty `[cartoon][S:04][opinion:ok]`
+- Rick and Morty (season 4) `[cartoon][season:04][opinion:ok]`
 
 - Tower of God `[anime][S:01]["Feels like Hunter Hunter x Sword Art Online x Liar Game's Akiyama-sensai"][opinion:liked]`
 
@@ -176,7 +176,7 @@
 - The Croods `[2013][film][animation][rewatch][opinion:loved]`
 - The Croods 2: A New Age `[2020][film][animation][imdb:tt2850386][opinion:liked]`
 
-- Antidote `[anime][Chinese][English sub][aka:Jie Yao][MAL:anime/41051]["KrisPNatz said it was the best BL anime of 2020."]["I liked the way characters talk."][opinion:liked]`
+- Antidote `[anime][Chinese][English sub][aka:Jie Yao][MAL:anime:41051]["KrisPNatz said it was the best BL anime of 2020."]["I liked the way characters talk."][opinion:liked]`
 - [ ] Antidote `[novel]`
     * https://www.novelupdates.com/series/antidote/
     * 2020-12-20: Translation is in progress: Ch. 20 / 102.

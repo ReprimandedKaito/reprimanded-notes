@@ -6,7 +6,29 @@ Kaito's questions:
 - What are the differences between an ontology and a (well-designed/generic) database?
 - Is an ontological database an ontology?
 
+
+## Learn
+
+[Ontology | Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science)#Engineering)
+
+- [x] OWL 2 Web Ontology Language Primer (Second Edition)
+https://www.w3.org/TR/2012/REC-owl2-primer-20121211/#Ontology_Management
+
+- OWL Time Ontology adoption - Spatial Data on the Web Working Group
+https://www.w3.org/2015/spatial/wiki/OWL_Time_Ontology_adoption
+
+- Time Ontology in OWL
+https://www.w3.org/TR/owl-time/
+
+
+- Event Ontology
+http://motools.sourceforge.net/event/event.html
+
+
 ## Tools
+
+- Apache Jena supports RDFS and OWL
+https://jena.apache.org/documentation/ontology/
 
 - Protégé
 

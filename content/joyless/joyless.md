@@ -21,6 +21,10 @@ Labels
     `ann:{type}:{id}` => `www.animenewsnetwork.com/encyclopedia/{type}.php?id={id}`
     type: "anime", "manga"
 
+- Wayback Machine - Internet Archive
+    `<a href="{url}"></a> [archived:{timestamp}]` => `http://web.archive.org/web/{timestamp}/{url}`
+    The URL defaults to the first preceding link (usually its the only one of that line)
+
 - IGDB
     `igdb:game:{gameId}` => `www.igdb.com/g/{gameId.toString(36)}`
 
@@ -37,6 +41,9 @@ Labels
 - Steam
     `steam:{id}` => `store.steampowered.com/app/{id}`
     Unique
+
+- Vocaloid Database
+    `vocadb:{songId}` => `vocadb.net/S/{songId}`
 
 - VNDB
     `vndb:{id}` => `vndb.org/{id}`
@@ -75,6 +82,7 @@ Name format
 ------------
 TBD.
 
+Options:
 - Title (Season 02, Part 1) - Author
 - Title (Season 02, Part 1) by Author
 

@@ -5,48 +5,102 @@
     * Has a "reverse linear"(?) narrative.
     * https://en.wikipedia.org/wiki/A_Rose_for_Emily
 
+- Alice in Borderland Retry `[manga][mal:manga:130593]`
+    * Joyless 2021
+    * https://mangadex.org/title/56129/alice-in-borderland-retry
+
+- Beastars
+    * Joyless 2021?
+    * In my opinion, the manga Beastars's genres should be drama, angst, and slice of life.
+
 ---
 
-- Eagle Eye `[2008]`
+## 19XX
 
-- No Good Deed `[film][2014]`
+- Animal Farm `[1954][opinion:liked]`
 
-- Big Fish & Begonia `[2016][English dub]`
+- The Abyss `[1989]`
 
-- Assassination Classroom The Movie: 365 Days `[film][anime][French dub][mal:anime:33513][opinion:liked]`
-    * Just a summary of the anime series.
-
-- Fate/stay night: Unlimited Blade Works `[film][mal:anime:6922][Arabic sub][opinion:liked]`
-
-- Pourquoi j'ai pas mangé mon père `[film][2015][French][imdb:tt1220911]`
-
-- Us `[2019][film][imdb:tt6857112]`
-
-- Tarzan `[1999]`
-
-- Ex Machina `[2015]`
-
-- Inception `[2010]`
-
-- Nikita `[series][imdb:tt1592154][opinion:liked]`
-
-- Tower of God `[anime]`
-
-- Big Hero 6 `[film][animation][French dub]`
+- Gattaca `[1997][dystopian][film][imdb:tt0119177][opinion:liked]`
 
 - Hercules `[1997]`
 
 - Mulan `[1998]`
 
+- The Prince of Egypt `[1998][animation][film]`
+
+- Tarzan `[1999][animation]`
+
+
+## 20XX
+
+- Vampire Hunter D `[1985][film][imdb:tt0090248]`
+- Vampire Hunter D: Bloodlust `[2000][film][imdb:tt0216651][rewatchable][opinion:loved]`
+
+- Eagle Eye `[2008]`
+
+- Babylon A.D. `[2008]`
+
 - WALL-E `[2008]`
 
-- The Giver `[2014]`
+- Blindness `[2008][dystopian][film][imdb:tt0861689][opinion:liked]`
+
+- Agora `[2009][film][opinion:liked]`
+
+- Inception `[2010]`
+
+- Fate/stay night: Unlimited Blade Works `[2010][film][mal:anime:6922][Arabic sub][opinion:liked]`
+
+- Extraordinary Tales `[2013][film][animation][rewatchable][imdb:tt3454574][opinion:loved]`
+
+- Big Hero 6 `[2014][film][animation][French dub]`
+
+- The Giver `[2014][film]`
+
+- No Good Deed `[2014][film]`
+
+- Selfless `[2015]`
+
+- Ex Machina `[2015]`
 
 - Inside Out `[2015]`
+
+- Pourquoi j'ai pas mangé mon père `[2015][film][French][imdb:tt1220911]`
+
+- Gods of Egypt `[2016][film][rewatchable][opinion:liked]`
 
 - Zootopia `[2016]`
 
 - Moana `[2016]`
+
+- Ben Hur `[2016]`
+
+- Miss Peregrine's Home For Peculiar Children `[2016]`
+
+- Big Fish & Begonia `[2016][English dub]`
+
+- Kubo And The Two Strings `[2016][rewatchable]`
+
+- Assassination Classroom The Movie: 365 Days `[2016][film][anime][French dub][mal:anime:33513][opinion:liked]`
+    * Just a summary of the anime series.
+
+- Along With the Gods: The Two Worlds `[2017][Korean][film][imdb:tt7160070][rewatchable][opinion:liked]`
+- [ ] Along With the Gods: The Last 49 Days `2018][Korean][film]`
+    * [ ] Along With the Gods sequels (in the making)
+
+- The Breadwinner `[2017][film][animation][imdb:tt3901826][opinion:liked]`
+
+- Funan `[2018][film][French][English sub][imdb:tt6342440][opinion:liked]`
+
+- Annihilation `[2018]`
+
+- To Your Last Death `[2019][film][animation][rewatchable][opinion:liked]`
+
+- Us `[2019][film][imdb:tt6857112]`
+
+- Nikita `[series][imdb:tt1592154][opinion:liked]`
+
+- Tower of God `[anime]`
 
 
 ## The Hunger Games films
@@ -124,7 +178,8 @@
 - Underworld: Blood Wars `[2016]`
 - Underworld: Endless War `[2011][animation][imdb:tt2381375]`
 
----
+
+## Gay stuff
 
 - Hitorijime My Hero `[anime][gay][opinion:liked]`
 
@@ -136,6 +191,8 @@
 
 - Out in the Dark `[2012][gay][opinion:liked]`
 
+- Jongens `[2014][gay][English sub][alt:Boys][imdb:tt3318220]`
+
 - King Cobra `[2016][gay][opinion:liked]`
 
 - It's Only The End Of The World `[2016][gay]`
@@ -144,15 +201,14 @@
 
 - 120 Beats Per Minute `[2017][gay][French][English sub][imdb:tt6135348]`
 
-- Jongens `[2014][gay][English sub][alt:Boys][imdb:tt3318220]`
 
----
+## Godless stuff
+
+- The Man Who Sued God `[2001]`
 
 - Letting Go of God `[2008][imdb:tt1027091][opinion:liked]`
 
 - The Invention of Lying `[2009]`
-
-- The Man Who Sued God `[2001]`
 
 ---
 

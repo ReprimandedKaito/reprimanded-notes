@@ -88,6 +88,7 @@
 - Chrono Trigger (SNES, USA) `[game][rpg]["Best game? ProJared keeps hyping it"][opinion:loved]`
 
 - ReLIFE `[manga][MAL:manga:78523][opinion:liked]`
+    * The overuse of chibi drawing style started to be unignorablely annoying (even since Vol1 or Vol2).
 
 - Zetsuai 1989 `[anime][MAL:anime:1041][opinion:liked]`
     * It is melodramatic, as Wikipedia describes it.
@@ -186,6 +187,8 @@
     * Music is good.
 
 - Blade Runner 2049 `[film][2017][imdb:tt1856101][opinion:meh]`
+
+- World's End Harem `[manga][mal:manga:98752][opinion:ok]`
 
 ---
 

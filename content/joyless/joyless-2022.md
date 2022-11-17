@@ -263,6 +263,11 @@
         At that point, suspension of disbelief got up and kicked me in the throat and left in a huff."
         -- [Reddit comment](https://www.reddit.com/r/movies/comments/g5554i/comment/fo1ci3a/?utm_source=share&utm_medium=web2x&context=3) 
 
+- Kingpin Katie (season 1) `[series][stars:Katie Marovitch][imdb:tt10450860][opinion:ok]`
+    * In addition to 2 extra episodes ("the making of the series"/"behind the scenes" and bloopers).
+    * There were some interesting scenes and jokes, mostly from Katie.
+    * Cheryl was kind of annoying.
+
 
 ## Doing
 

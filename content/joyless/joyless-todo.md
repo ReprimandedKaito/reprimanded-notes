@@ -34,9 +34,6 @@
 - [ ] Red Riding: In The Year Of Our Lord 1983 `[2009]`
     * Downloaded
 
-- [ ] Kingpin Katie `[series][imdb:tt10450860]`
-    * Downloading...
-
 - [ ] Senn `[2013][imdb:tt3358654][website:sennition.com]["uses the conlang Siinyamda"]`
     * Downloading...
 
@@ -173,8 +170,7 @@
 
 - [ ] Generator Rex `[cartoon][rewatch]`
 
-- [ ] Orwell's Animal Farm `[game][visual novel?]["Younes told me about it"]`
-    * https://store.steampowered.com/app/1398100
+- [ ] Orwell's Animal Farm `[game][visual novel?][steam:1398100]["Younes told me about it"]`
 
 - [ ] Hades `[game]["ranked number 3 on ProJared's Best Games of 2020"]`
 
@@ -198,6 +194,12 @@
 
 - [ ] Inscryption `[game][2021]["ProJared ranked it as 2nd best game of 2021"]`
 
+- [ ] Earthbound `[game][rpg]`
+    * Projared listed it as one of the best non-Square RPGs.
+
+- [ ] TaleSpire `[game][website:talespire.com][steam:720620]`
+    * By Bouncyrock Entertainment (https://bouncyrock.com)
+    * KAITO: Came across it on Twitter in 2020. Thought it looked super interesting.
 
 ## HNK
 - [ ] Hokuto no Ken: The Movie `[film][1986][mal:anime:1358]`
@@ -299,6 +301,7 @@ Note: ProJared recommends FF pixel remasters
     * From danke-Empire.
 
 - [ ] ANTI P.T. by Lee Gpiee `[yaoi][mangaupdates:23687841742]`
+    * [Webtoon Trailer - Anti P.T. | Lezin Comics](https://www.youtube.com/watch?v=XXXpgug7EUo)
     * https://yaoimangaonline.com/anti-p-t-by-lee-gpiee-eng/
     * Completed on YMO.
 
@@ -331,6 +334,8 @@ Note: ProJared recommends FF pixel remasters
     * Recommended by Natz [GAY Manga Recommendations - YouTube](https://www.youtube.com/watch?v=YPWXSB3vXQs)
     * https://yaoimangaonline.com/light-the-fire-by-dainyu-dougumo-dainyu-eng/
 
+- [ ] Coming Out On Top `[visual novel][gay][vndb:v13036]`
+
 
 ## Ongoing
 Still publishing, airing, hasn't aired yet, or on hiatus.
@@ -343,6 +348,12 @@ Still publishing, airing, hasn't aired yet, or on hiatus.
 
 
 ## To read
+
+- [ ] MS Fnd in a Lbry `[short story]`
+    * "MS Fnd in a Lbry (probably intended to be understood as "Manuscript Found in a Library") is a satirical science fiction short story about the disastrous effects of the exponential growth of information. The story was written by Hal Draper in 1961. Its title is a play on the Edgar Allan Poe story _MS. Found in a Bottle_."
+    -- Wikipedia](https://en.wikipedia.org/wiki/MS_Fnd_in_a_Lbry)
+    
+    * https://folk.universitetetioslo.no/knuthe/kuriosa/draper.pdf
 
 - [ ] Dollhouse: Epitaphs `[comic book]`
   * FANDOM: https://dollhouse.fandom.com/wiki/Epitaphs

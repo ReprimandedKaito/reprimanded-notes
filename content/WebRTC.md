@@ -35,6 +35,13 @@ https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT
     * Opinion: ok
 
 
+### NOTES: Architectures for a kickass WebRTC application
+by Tom Moor
+https://www.youtube.com/watch?v=m9QxBc0OeoI
+
+Notes:
+NONE.
+
 ### NOTES: Servers for WebRTC: It is not all Peer to Peer
 Speaker: Chad Hart
 Conf: Kranky Geek WebRTC Brazil 2016
