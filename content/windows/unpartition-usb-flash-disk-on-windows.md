@@ -10,4 +10,4 @@ Those two partitions were created automatically after it was used to install Win
 
 ---
 
-FIN.
+END.

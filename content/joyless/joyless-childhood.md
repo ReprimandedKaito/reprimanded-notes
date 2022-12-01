@@ -21,6 +21,11 @@ Watched as a child.
 - The Lost World `[cartoon][Arabic dub]["El-Madina El-Muharama from my childhood"]`
     * Based on a novel https://en.wikipedia.org/wiki/The_Lost_World_(Doyle_novel)
  
+ - The Secret Saturdays `[cartoon][Arabic dub]`
+    * [Negative Legend's summary](https://www.youtube.com/watch?v=jvlXFYfhH1I)
+
+- Virtua Fighter `[mal:anime:961][spacetoongo:series:216]`
+
 ---
 
 END.

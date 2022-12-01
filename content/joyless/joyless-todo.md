@@ -1,5 +1,8 @@
 # Joyless TODO
 
+- [ ] Adventure Time: Distant Lands `[2020–2021][imdb:tt11165358]`
+    * Downloaded
+
 - [ ] The Thing `[1982]`
     * Downloaded
 
@@ -35,7 +38,19 @@
     * Downloaded
 
 - [ ] Senn `[2013][imdb:tt3358654][website:sennition.com]["uses the conlang Siinyamda"]`
-    * Downloading...
+    * Downloaded
+
+---
+
+- [ ] The Raven `[poem][short story]`
+    * https://en.wikipedia.org/wiki/The_Raven?wprov=sfla1
+
+- [x] Ace Attorney Trilogy 1.00.01 APK (Paid) Download for Android
+    * https://apkmody.com/games/ace-attorney-trilogy
+    * Downloaded
+
+- [ ] Ctrl-Alt-Destroy `[lit RPG]`
+    * https://www.realm.fm/shows/ctrl-alt-destroy
 
 ---
 
@@ -48,10 +63,6 @@
     * Kaito: The art style seemed interesting.
     * "Mekakucity Actors" means "Blindfold-city Actors" -- https://en.wikipedia.org/wiki/Kagerou_Project
     * It started as a Vocaloid song series. -- Wikipedia
-
-- [ ] Tribe Nine `[anime][mal:anime:49969]`
-    * Downloaded
-    * Shun Kamiya's English VA (Jacob Hopkins) is the same as Fushi's (of To Your Eternity).
 
 - [ ] Once Upon A Time In Wonderland (Season 1) `[series]`
     * Downloaded
@@ -69,7 +80,7 @@
 
 ---
 
-- [ ] Baten Kaitos: Eternal Wings and the Lost Ocean `[game][igdb:game:3795]`
+- [ ] Baten Kaitos: Eternal Wings and the Lost Ocean `[game][igdb:game:2xf]`
     * [x] Downloaded Dolphin (GameCube emulator) and the game ISO.
     * [ ] Play
     * [ ] Watch LongplayArchive's LP https://www.youtube.com/watch?v=T76ikW23aNc

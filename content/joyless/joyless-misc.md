@@ -13,6 +13,11 @@
     * Joyless 2021?
     * In my opinion, the manga Beastars's genres should be drama, angst, and slice of life.
 
+- La Femme Nikita `[1990][French dub]`
+- [ ] La Femme Nikita `[1990][English dub]`
+
+- Dante's Inferno: An Animated Epic `[2010][opinion:liked][rewatchable]`
+
 ---
 
 ## 19XX
@@ -46,6 +51,9 @@
 - Blindness `[2008][dystopian][film][imdb:tt0861689][opinion:liked]`
 
 - Agora `[2009][film][opinion:liked]`
+
+- Malice In Wonderland `[2009]`
+    * I remember liking it
 
 - Inception `[2010]`
 
@@ -83,6 +91,10 @@
 
 - Assassination Classroom The Movie: 365 Days `[2016][film][anime][French dub][mal:anime:33513][opinion:liked]`
     * Just a summary of the anime series.
+
+- Suicide Squad `[2016]`
+
+- Singularity `[2017]`
 
 - Along With the Gods: The Two Worlds `[2017][Korean][film][imdb:tt7160070][rewatchable][opinion:liked]`
 - [ ] Along With the Gods: The Last 49 Days `2018][Korean][film]`

@@ -268,6 +268,17 @@
     * There were some interesting scenes and jokes, mostly from Katie.
     * Cheryl was kind of annoying.
 
+- Cyberpunk: Edgerunners `[anime][English dub][mal:anime:42310][opinion:liked]`
+    * Liked the way netrunners (esp. Kiki) talk over the phone.
+      Examples:
+        + David calling Wakako in E07 at 00:06:21.
+        + Lucy calling Kiwi in E08 at 00:09:42.
+    * Liked the music [I Really Want To Stay At Your House](https://www.youtube.com/watch?v=h4VJGNNSQnw).
+    * Reminds me of Human Lost (anime film) and Akudama Drive (anime).
+
+- [~] Tribe Nine `[anime][English dub][mal:anime:49969][opinion:ok]`
+    * Shun Kamiya's English VA (Jacob Hopkins) is the same as Fushi's (of To Your Eternity).
+
 
 ## Doing
 
@@ -296,7 +307,6 @@
 - [ ] Nope `[film][2022][imdb:tt10954984][rewatch]`
 
 - [ ] Westworld (season 04) `[series]`
-    * There are 1080p Web episodes on RARPG. I want Bluray, tho.
     * "However, in November 2022, it was announced that HBO canceled the series." - Wikipedia
 
 ---

@@ -1,6 +1,153 @@
 # Random topics
 
 
+# Design systems
+
+Interesting, web design:
+- [Search – Carbon Design System](https://www.carbondesignsystem.com/patterns/search-pattern/)
+
+- Material UI
+
+
+# React
+
+- https://github.com/enaqx/awesome-react
+- https://github.com/brillout/awesome-react-components
+
+### Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019
+#JSConf #React
+* https://www.youtube.com/watch?v=KJP1E-Y-xyo
+* opinion:liked
+
+```
+The design of React Hooks requires a good understanding of closures in JavaScript. In this talk, we’ll reintroduce closures by building a tiny clone of React! This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how you get Custom Hooks and the Rules of Hooks out of this incredible mental model!
+
+Originally from Singapore, swyx is an Infinite Builder working on Developer Experience at Netlify. In his free time he helps people Learn in Public at Egghead.io and /r/reactjs.
+
+
+JSConf.Asia - LASALLE College of the Arts, Singapore - 15 June 2019
+```
+
+This is not React. What is React? This is my answer:
+- [Shawn Swyx Wang - Why React is not Reactive | YouTube](https://www.youtube.com/watch?v=nyFHR0dDZo0)
+
+### Shawn Swyx Wang - Why React is not Reactive | React Rally 2018
+* https://www.youtube.com/watch?v=nyFHR0dDZo0
+* opinion: ok
+* Mentions [`window.requestIdleCallback()` | MDN]https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback  
+
+
+# Parsers
+
+## Markdown parsers
+
+### JavaScript
+
+- https://github.com/markedjs/marked
+    * Demo (AST explorer) https://marked.js.org/demo/
+
+    * Used by:
+        + DanganFont?
+
+- remark https://github.com/remarkjs/remark
+    * AST Exploter: Remark
+    https://astexplorer.net/#/gist/0a92bbf654aca4fdfb3f139254cf0bad/ffe102014c188434c027e43661dbe6ec30042ee2
+
+    * Used by:
+        + muninn
+        https://github.com/szymonkaliski/muninn/blob/master/packages/muninn-lib/src/markdown/index.js
+
+### Java
+
+- **flexmark-java** https://github.com/vsch/flexmark-java
+    >
+    > **flexmark-java** is a Java implementation of CommonMark (spec 0.28) parser using the blocks first, inlines after Markdown parsing architecture.
+    >
+    > Its strengths are speed, flexibility, Markdown source element based AST with details of the source position down to individual characters of lexemes that make up the element and extensibility.
+    >
+    > The API allows granular control of the parsing process and is optimized for parsing with a large number of installed extensions. The parser and extensions come with plenty of options for parser behavior and HTML rendering variations. The end goal is to have the parser and renderer be able to mimic other parsers with great degree of accuracy. This is now partially complete with the implementation of Markdown Processor Emulation
+
+    * Supports Wikilinks with a possible custom link resolver
+    
+    * [ ] TRY
+
+- **commonmark-java** https://github.com/commonmark/commonmark-java
+    * [ ] TRY
+
+
+## Parser combinators
+[Parser combinator | Wikipedia](https://en.wikipedia.org/wiki/Parser_combinator)
+
+- Masala Parser https://github.com/masala/masala-parser
+"Masala Parser is inspired by the paper titled: Direct Style Monadic Parser Combinators For The Real World. \
+Masala Parser is a Javascript implementation of the Haskell Parsec. It is plain Javascript that works in the browser, is tested with more than 450 unit tests, covering 100% of code lines."
+
+
+- Arcsecond https://github.com/francisrstokes/arcsecond
+"Arcsecond is a zero-dependency, Fantasy Land compliant JavaScript Parser Combinator library largely inspired by Haskell's Parsec."
+
+- https://github.com/microsoft/ts-parsec
+"ts-parsec is a parser combinator library prepared for typescript. By using this library, you are able to create parsers very quickly using just a few lines of code. It provides the following features:"
+
+
+# Search input
+Trying to make a Discord-like search input
+
+#interesting #useful
+- [ ] https://github.com/zurb/tribute
+"ES6 Native @mentions"
+Supports multiple collections and different trigger prefixes.
+
+- [ ] https://github.com/signavio/react-mentions
+
+- Tags with misc text:
+https://github.com/yairEO/tagify
+
+
+#design #insp
+- Clew: Universal search by Udara Jay on Dribbble
+https://dribbble.com/shots/17063596-Clew-Universal-search
+
+
+# Search engines
+
+- [ ] Lunr https://lunrjs.com
+    * "Lunr: A bit like Solr, but much smaller and not as bright"
+    * https://github.com/olivernn/lunr.js
+
+#javascript #clientside #searchengine
+- [ ] Fuse.js https://fusejs.io
+    * "Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies."
+
+    * [ ] [Using Fuse.js to add dynamic search to a React app | LogRocket  Blog](https://blog.logrocket.com/fuse-js-dynamic-search-react-app/)
+    By Danny Guo, April 5, 2021
+    
+    * Used by
+        https://github.com/tagspaces/tagspaces
+
+
+## Web frameworks: Blogging
+
+- Eleventy
+    - https://github.com/11ty/eleventy-base-blog
+    - https://rphunt.github.io/eleventy-walkthrough/template-files.html
+
+
+## JavaScript: Bundlers
+
+#bundler #javascript
+- [x] Browserify
+    `npm:browserify`
+    https://github.com/browserify/browserify
+    https://browserify.org/
+
+
+- [x] UglifyJS "JavaScript parser / mangler / compressor / beautifier toolkit"
+    `npm:uglify-js`
+    https://github.com/mishoo/UglifyJS
+    https://lisperator.net/uglifyjs/
+
+
 ## Bookmarks
 
 #akaito/pins #insp
@@ -112,25 +259,6 @@ HTML:
 ```html
 <link rel="search" type="application/opensearchdescription+xml" href="opensearch.osdx" title="Kaito">
 ```
-
-## Markdown parsers
-
-### Java
-
-- **flexmark-java** https://github.com/vsch/flexmark-java
-    >
-    > **flexmark-java** is a Java implementation of CommonMark (spec 0.28) parser using the blocks first, inlines after Markdown parsing architecture.
-    >
-    > Its strengths are speed, flexibility, Markdown source element based AST with details of the source position down to individual characters of lexemes that make up the element and extensibility.
-    >
-    > The API allows granular control of the parsing process and is optimized for parsing with a large number of installed extensions. The parser and extensions come with plenty of options for parser behavior and HTML rendering variations. The end goal is to have the parser and renderer be able to mimic other parsers with great degree of accuracy. This is now partially complete with the implementation of Markdown Processor Emulation
-
-    * Supports Wikilinks with a possible custom link resolver
-    
-    * [ ] TRY
-
-- **commonmark-java** https://github.com/commonmark/commonmark-java
-    * [ ] TRY
 
 
 ## Petri Net Viz

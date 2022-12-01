@@ -8,50 +8,17 @@ My `joyless-XXXX.md` files actually serve as "game backlogs".
 - LP: Let's Play or Longplay
 
 ## Technicalities
-Ideas:
-- JoylessLine is a schema Review with About links
+- Idea: `JoylessLine` is a schema `Review` with `About` links.
 
 
 Labels
 -------
 
-**My labels/URNs** AKA `kai-garden-urns`
-
-- Anime News Network
-    `ann:{type}:{id}` => `www.animenewsnetwork.com/encyclopedia/{type}.php?id={id}`
-    type: "anime", "manga"
+**My labels/URNs** AKA `kai-garden-urns` or `joyless-urns.json`
 
 - Wayback Machine - Internet Archive
     `<a href="{url}"></a> [archived:{timestamp}]` => `http://web.archive.org/web/{timestamp}/{url}`
     The URL defaults to the first preceding link (usually its the only one of that line)
-
-- IGDB
-    `igdb:game:{gameId}` => `www.igdb.com/g/{gameId.toString(36)}`
-
-- IMDb
-    `imdb:{id}` => `www.imdb.com/title/{id}/`
-
-- MangaUpdates
-    `mangaupdates:series:{seriesId}` => `api.mangaupdates.com/v1/series/{seriesId}`
-
-- MyAnimeList
-    `mal:{type}:{id}` => `myanimelist.net/{type}/{id}`
-    type: "anime", "manga"
-
-- Steam
-    `steam:{id}` => `store.steampowered.com/app/{id}`
-    Unique
-
-- Vocaloid Database
-    `vocadb:{songId}` => `vocadb.net/S/{songId}`
-
-- VNDB
-    `vndb:{id}` => `vndb.org/{id}`
-
-- YouTube
-    `youtube:{id}` => `www.youtube.com/watch?v={id}`
-
----
 
 - `S` (season number) and `E` (episode number)
 
