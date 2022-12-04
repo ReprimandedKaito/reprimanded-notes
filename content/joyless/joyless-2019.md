@@ -143,9 +143,9 @@
 
 - South Park: Bigger, Longer & Uncut `[1999][opinion:8]`
 
-- Being Human (UK) `[series][S:05][stars:Aidan Turner][opinion:liked]`
+- Being Human (UK) `[series][S:05][casts:Aidan Turner][opinion:liked]`
 
-- And Then There Were None `[series][imdb:tt3581932][stars:Aidan Turner][opinion:liked]`
+- And Then There Were None `[series][imdb:tt3581932][casts:Aidan Turner][opinion:liked]`
     * Watched because I already read the novel, plus it stars Aidan Turner, whom I liked in Being Human.
 
 - In Time `[2011]`

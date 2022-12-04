@@ -134,7 +134,7 @@
 - The Animatrix `[2003]`
 
 ## The Chronicles of Riddick (franchise)
-- Pitch Black `[2000][stars:Vin Diesel]`
+- Pitch Black `[2000][casts:Vin Diesel]`
 - The Chronicles of Riddick `[2004]`
 - [ ] The Chronicles of Riddick: Dark Fury `[2004]`
 - Riddick `[2013]`
@@ -154,16 +154,16 @@
 - Terminator: Dark Fate `[2019]`
 
 ## Starring Queen Latifah
-- Set It Off `[1996][stars:Queen Latifah]`
+- Set It Off `[1996][casts:Queen Latifah]`
     * Apparently I have already watched it years ago (in 2017, I think).
-- Taxi `[2004][stars:Queen Latifah]`
-- Last Holiday `[2006][stars:Queen Latifah]`
-- Mad Money `[2008][stars:Queen Latifah]`
-- Just Wright `[2010][stars:Queen Latifah]`
-- Joyful Noise `[2012][stars:Queen Latifah]`
-- Steel Magnolias `[2012][stars:Queen Latifah]`
-- Bessie `[2015][stars:Queen Latifah]`
-- Girls Trip `[2017][stars:Queen Latifah]`
+- Taxi `[2004][casts:Queen Latifah]`
+- Last Holiday `[2006][casts:Queen Latifah]`
+- Mad Money `[2008][casts:Queen Latifah]`
+- Just Wright `[2010][casts:Queen Latifah]`
+- Joyful Noise `[2012][casts:Queen Latifah]`
+- Steel Magnolias `[2012][casts:Queen Latifah]`
+- Bessie `[2015][casts:Queen Latifah]`
+- Girls Trip `[2017][casts:Queen Latifah]`
 
 ## Fantastic Beasts
 - Fantastic Beasts And Where To Find Them `[2016]`

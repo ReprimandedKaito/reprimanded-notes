@@ -26,7 +26,7 @@ Labels
 
 - `rec-by:{person}` means this thing was "recommended to me by that person"
 
-- `casts:{actors}` = `stars:{actors}`
+- `casts:{actors}`
 
 
 What id to use

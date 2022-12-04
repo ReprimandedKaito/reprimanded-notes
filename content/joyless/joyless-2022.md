@@ -90,7 +90,8 @@
     * Recommended by Akidearest and Wanis.
     * Published by Viz.
 
-- Human Lost `[film][anime][English dub][by Polygon Pictures, makers of Ajin][opinion:ok]`
+- Human Lost `[film][anime][English dub][opinion:ok]`
+    * By Polygon Pictures, makers of Ajin.
     * Its concept is based on No Longer Human.
 
 - Gakuen Heaven `[anime][shounen-ai][mal:anime:850][opinion:disliked]`
@@ -195,7 +196,7 @@
 
 - Hellraiser `[2022][opinion:ok]`
 
-- Dune `[2021][stars:Timothée Chalamet][AKA:Dune: Part One][opinion:ok]`
+- Dune `[2021][casts:Timothée Chalamet][AKA:Dune: Part One][opinion:ok]`
     * Stars that twink from Call Me By Your Name.
 
 - Pan's Labyrinth `[2006][Spanish][English sub][opinion:liked]`
@@ -242,7 +243,7 @@
     * "All in all, a very mediocre-bad sci-fi movie. Reminded me of Gravity in many ways."
       -- https://www.reddit.com/r/movies/comments/ncolxy/comment/gy8lm38/?utm_source=share&utm_medium=web2x&context=3
 
-- Inception - Teminite `[music album][opinion:liked]["Dubstep"]`
+- Inception - Teminite `[music album][dubstep][opinion:liked]`
     * https://www.youtube.com/watch?v=0m-09mxAvlY
 
 - Bros `[2022][film][gay][opinion:ok]`
@@ -263,7 +264,7 @@
         At that point, suspension of disbelief got up and kicked me in the throat and left in a huff."
         -- [Reddit comment](https://www.reddit.com/r/movies/comments/g5554i/comment/fo1ci3a/?utm_source=share&utm_medium=web2x&context=3) 
 
-- Kingpin Katie (season 1) `[series][stars:Katie Marovitch][imdb:tt10450860][opinion:ok]`
+- Kingpin Katie (season 1) `[series][casts:Katie Marovitch][imdb:tt10450860][opinion:ok]`
     * In addition to 2 extra episodes ("the making of the series"/"behind the scenes" and bloopers).
     * There were some interesting scenes and jokes, mostly from Katie.
     * Cheryl was kind of annoying.
@@ -276,8 +277,14 @@
     * Liked the music [I Really Want To Stay At Your House](https://www.youtube.com/watch?v=h4VJGNNSQnw).
     * Reminds me of Human Lost (anime film) and Akudama Drive (anime).
 
-- [~] Tribe Nine `[anime][English dub][mal:anime:49969][opinion:ok]`
+- Tribe Nine `[anime][English dub][mal:anime:49969][opinion:meh]`
     * Shun Kamiya's English VA (Jacob Hopkins) is the same as Fushi's (of To Your Eternity).
+    * Animation was meh, music was fine, character designs were fine.
+    * Chiyoda Tribe's leader's design and quest for satisfaction remind me of King Haggard (from The Last Unicorn).
+    * Liked the opening song.
+    * Taiga's accent was kind unique. Shun and Haru's voices were sweet.
+    * The game's trailer was amazing tho:
+      [Tribe Nine - Official Cinematic Reveal Trailer | GameSpot Trailers | YouTube](https://www.youtube.com/watch?v=Q6z-iHJpmyw)
 
 
 ## Doing
@@ -294,17 +301,12 @@
   * [~] AA 1
   * [ ] AA 2
   * [ ] AA 3
+    * Ace Attorney Trilogy 1.00.01 APK (Paid) Download for Android
+        + Downloaded https://apkmody.com/games/ace-attorney-trilogy
 
 - [~] Togainu No Chi (original, fan-translated, Windows XP) `[game][visual novel]`
   * [x] Keisuke's route.
   * [ ] Play a route other than Kisuke's.
-
-
-## Will do
-
-- [ ] Get Out `[film][2017][imdb:tt5052448]`
-- [ ] Us `[film][2019][rewatch]`
-- [ ] Nope `[film][2022][imdb:tt10954984][rewatch]`
 
 - [ ] Westworld (season 04) `[series]`
     * "However, in November 2022, it was announced that HBO canceled the series." - Wikipedia

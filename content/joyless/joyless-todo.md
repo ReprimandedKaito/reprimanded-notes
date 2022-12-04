@@ -1,7 +1,10 @@
 # Joyless TODO
 
-- [ ] Adventure Time: Distant Lands `[2020–2021][imdb:tt11165358]`
+- [ ] Adventure Time: Distant Lands `[animation][2020–2021][imdb:tt11165358]`
     * Downloaded
+
+- [ ] Animals. `[animation][adult][cartoon][from HBO]`
+    * https://www.imdb.com/title/tt4953128/
 
 - [ ] The Thing `[1982]`
     * Downloaded
@@ -42,21 +45,24 @@
 
 ---
 
+- [ ] Get Out `[film][2017][imdb:tt5052448]`
+- [ ] Us `[film][2019][rewatch]`
+- [ ] Nope `[film][2022][imdb:tt10954984][rewatch]`
+
+---
+
 - [ ] The Raven `[poem][short story]`
     * https://en.wikipedia.org/wiki/The_Raven?wprov=sfla1
-
-- [x] Ace Attorney Trilogy 1.00.01 APK (Paid) Download for Android
-    * https://apkmody.com/games/ace-attorney-trilogy
-    * Downloaded
 
 - [ ] Ctrl-Alt-Destroy `[lit RPG]`
     * https://www.realm.fm/shows/ctrl-alt-destroy
 
 ---
 
-- [ ] Augustine: Son of Her Tears `[2019][website:augustinefilm.com][imdb:tt12971100]["ChristianityToday.com wrote about it"]`
+- [ ] Augustine: Son of Her Tears `[2019][website:augustinefilm.com][imdb:tt12971100]`
+    * ChristianityToday.com wrote about it.
 
-- [ ] The Broken `[2008]["stars 'Cersei Lannister'"][imdb:tt0906734]`
+- [ ] The Broken `[2008][casts:Lena Headey][imdb:tt0906734]`
 
 - [ ] Mekakucity Actors `[anime][mal:anime:21603]`
     * Downloaded
@@ -64,30 +70,23 @@
     * "Mekakucity Actors" means "Blindfold-city Actors" -- https://en.wikipedia.org/wiki/Kagerou_Project
     * It started as a Vocaloid song series. -- Wikipedia
 
-- [ ] Once Upon A Time In Wonderland (Season 1) `[series]`
-    * Downloaded
-
-- [ ] Practical Magic `[film][1998][stars:Nicole Kidman, Sandra Bullock]`
-    * Downloaded
-- [ ] The Hours `[film][2002][stars:Nicole Kidman, Meryl Streep]`
-    * Downloaded
-- [ ] Cold Mountain `[film][2003][stars:Nicole Kidman, Cillian Murphy]`
-    * Downloaded
-- [ ] Birth `[film][2004][stars:Nicole Kidman]`
-    * Downloaded
-- [ ] Rabbit Hole `[film][2010][stars:Nicole Kidman]`
+- [ ] Once Upon A Time In Wonderland (season 1) `[series]`
     * Downloaded
 
 ---
 
-- [ ] Baten Kaitos: Eternal Wings and the Lost Ocean `[game][igdb:game:2xf]`
-    * [x] Downloaded Dolphin (GameCube emulator) and the game ISO.
-    * [ ] Play
-    * [ ] Watch LongplayArchive's LP https://www.youtube.com/watch?v=T76ikW23aNc
+- [ ] Practical Magic `[film][1998][casts:Nicole Kidman, Sandra Bullock]`
+    * Downloaded
+- [ ] The Hours `[film][2002][casts:Nicole Kidman, Meryl Streep]`
+    * Downloaded
+- [ ] Cold Mountain `[film][2003][casts:Nicole Kidman, Cillian Murphy]`
+    * Downloaded
+- [ ] Birth `[film][2004][casts:Nicole Kidman]`
+    * Downloaded
+- [ ] Rabbit Hole `[film][2010][casts:Nicole Kidman]`
+    * Downloaded
 
-- [ ] Chrono Cross `[game][JRPG]["looks colorful and relaxing"]`
-  * Downloaded ["Chrono Cross (PSX) (PS1) (RPG) (Use ePSXe)" | TPB](https://thepiratebay.org/description.php?id=6226733)
-  * Duckstation and that BIOS run it on Windows 10 x64.
+---
 
 - [ ] Zetsubou Prison - Blue Horror Gaming's English playthrough `[game][visual novel]`
     * [ ] Completely translated? They are still working on Case 5 as of 2022-10-17.
@@ -111,13 +110,6 @@
 - [ ] Big Fish & Begonia `[film][animation][2016][Chinese][rewatch]`
     * [ ] Re-download https://yts.mx/movies/big-fish-begonia-2016
 
-- [ ] Danganronpa 3 `[anime][English sub][rewatch]`
-  * [ ] Download
-- [ ] Enigma Archives: RAIN CODE `[game][from the Danganronpa team]`
-    * Trailer: https://www.youtube.com/watch?v=bAgEmdFuOuE
-
-- [ ] Zero Escape franchise `[game]`
-
 - [ ] Avatar 2 `[film][2022-12-16][imdb:tt1630029]`
 
 - [ ] The Wind Guardians `[film][Chinese][animation][imdb:tt9496406]`
@@ -135,8 +127,6 @@
         * Translated by: Stephen Paul
         * Remark: Vol 1 ends with Battle 6 - "Conquering Angel" (retitled "Battle Angel")
 - [ ] Battle Angel Alita: Last Order `[manga][mal:manga:770][mangaupdates:series/2158]`
-
-- [ ] The Hobbit franchise `[rewatch]`
 
 - [ ] New Gods: Nezha Reborn `[film][2021][imdb:tt13269670]`
     * 2022-11-07 CN missing subs https://yts.mx/movies/nezha-reborn-2021
@@ -161,29 +151,38 @@
 
 - [ ] Oliver Twist `[film][2005]["because Charles Dickens"][imdb:tt0380599]`
 
-- [ ] Peep Show `[series][2003-2015]`
-    * [ ] Why did I add it again? >.<
-
 - [ ] Re:Zero S01 Remake `[anime]`
 - [ ] Re:Zero S02 `[anime]`
 
-- [ ] Jujutsu Kaisen `[anime]["Haru suggested it"][MAL:anime:40748]`
+- [ ] Jujutsu Kaisen `[anime]["Haru suggested it"][mal:anime:40748]`
 
 - [ ] Dr. Stone `[anime]["I think it looks cool"]`
 
-- [ ] Love, Death & Robots `[anime]`
+- [ ] Love, Death & Robots `[anime]["I think it looks cool"]`
 
 - [ ] Rachida `[film][2002][imdb:tt0318011]`
 
 - [ ] Pépé le Moko `[film][1937][French][imdb:tt0029453]`
 
-- [ ] W.I.T.C.H. `[animated series][rewatch]["I've watched on MBC3 as a child, super loved the Arabic opening, thought the settings and characters were dark and cool]`
+---
 
-- [ ] Generator Rex `[cartoon][rewatch]`
+- [ ] Enigma Archives: RAIN CODE `[game][from the Danganronpa team]`
+    * Trailer: https://www.youtube.com/watch?v=bAgEmdFuOuE
+
+- [ ] Zero Escape franchise `[game]`
 
 - [ ] Orwell's Animal Farm `[game][visual novel?][steam:1398100]["Younes told me about it"]`
 
 - [ ] Hades `[game]["ranked number 3 on ProJared's Best Games of 2020"]`
+
+- [ ] Baten Kaitos: Eternal Wings and the Lost Ocean `[game][igdb:game:2xf]`
+    * [x] Downloaded Dolphin (GameCube emulator) and the game ISO.
+    * [ ] Play
+    * [ ] Watch LongplayArchive's LP https://www.youtube.com/watch?v=T76ikW23aNc
+
+- [ ] Chrono Cross `[game][JRPG]["looks colorful and relaxing"]`
+  * Downloaded ["Chrono Cross (PSX) (PS1) (RPG) (Use ePSXe)" | TPB](https://thepiratebay.org/description.php?id=6226733)
+  * Duckstation and that BIOS run it on Windows 10 x64.
 
 - [ ] Suikoden 2 `[game][JRPG]["ProJared recommendation"]`
   * Suggested by ProJared, reviewed favorably by Resonant Arc, was talked about on r/JRPG, 
@@ -223,6 +222,10 @@
 - [ ] Shin Hokuto No Ken - OVA (2003) - Ep 01 - The Cursed City
 - [ ] Shin Hokuto No Ken - OVA (2003) - Ep 02 - The Forbidden Fist
 - [ ] Shin Hokuto No Ken - OVA (2004) - Ep 03 - When A Man Carries Sorrow
+
+
+## The Hobbit franchise `[rewatch]`
+...
 
 
 ## Kaiji franchise `[anime]`
