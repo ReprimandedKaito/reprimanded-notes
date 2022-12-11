@@ -11,7 +11,7 @@
     The biggest difference is that Shiki killed Keisuke at the end (Episode 11).
     * The animation was meh, and BL scenes were removed.
 
-- Doukyuusei -Classmates- `[2016][anime][film][mal:anime:30346][shounen-ai][opinion:ok]`
+- Doukyuusei -Classmates- `[2016][anime][film][mal:anime:30346][gay][opinion:ok]`
 
 - Akudama Drive `[anime][English dub][mal:anime:41433][opinion:liked]`
     * The opening is cool.
@@ -55,34 +55,34 @@
 - Prison School `[anime][mal:anime:30240]`
 - Prison School: Mad Wax `[anime][mal:anime:32485]`
 
-- The Last Unicorn `[film][1982][rewatched]`
+- The Last Unicorn `[film][1982][rewatched][imdb:tt0084237][opinion:loved]`
 
 - I Care A Lot `[film][2020][opinion:disliked]`
 
 - Attack on Titan (season 04, part 2) `[anime][2022][opinion:ok]`
 
-- The Intern `[film][2015]["starring Anne Hathaway"][opinion:meh]`
+- The Intern `[film][2015][casts:Anne Hathaway][opinion:meh]`
 
-- The Devil Wears Prada `[film][2006]["starring Anne Hathaway"][opinion:ok]`
+- The Devil Wears Prada `[film][2006][casts:Anne Hathaway][opinion:ok]`
 
-- Blue Flag - Kaito `[manga]["Ao no Flag"][mal:manga:103942][translated by Adrienne Beck][opinion:disliked]`
+- Blue Flag - Kaito `[manga][aka:Ao no Flag][mal:manga:103942][opinion:disliked]`
+    * Translated by Adrienne Beck.
     * The main character looked adorable though, and his facial and expressions throughout the manga were precious.
     * Too much dialogue, monologue, or author's expositions... and they are all lengthy and have the same voice/tone. smh.
     * The female character reminds me of the rabbit from Beastars, they are even in the horticultural (garden) club, what's up with this archetype?
     * The ending was totally abrupt. I did not like the last chapter(s).
 
-- Genshin Impact
-    * Itto Story Quest | Taurus Iracandus Chapter: Act 1 Rise Up, Golden Soul
-    https://www.youtube.com/watch?v=swvW9hAfSuw
+- Genshin Impact `[game]`
+    * [Itto Story Quest | Taurus Iracandus Chapter: Act 1 Rise Up, Golden Soul](https://www.youtube.com/watch?v=swvW9hAfSuw)
 
 - Ajin: Demi-Human `[manga][ann:manga:15859][mal:manga:49865][opinion:liked]`
 - Ajin: Demi-Human `[film][2017][Japanese][imdb:tt6215712][opinion:meh]`
-- Ajin `[anime][English dub][rewatch][mal:anime:31580][mal:anime:33253]["Season 1 and 2"][opinion:liked]`
+- Ajin `[anime][English dub][rewatch][mal:anime:31580][mal:anime:33253][Season 1 and 2][opinion:liked]`
     * Kei and Ko look cuter in this anime.
     * Compared to the manga, violence is toned down noticeably.
     * [ ] What software was used to animate the series? Feels very Blender-y...
 - Ajin OVA `[anime][English sub][mal:anime:32015]`
-- Ajin 2nd Season OVA `[anime][English sub]["Satou: Zero"][mal:anime:36625]`
+- Ajin 2nd Season OVA `[anime][English sub][aka:"Satou: Zero"][mal:anime:36625]`
 
 - Anastasia `[1997][rewatch]`
 
@@ -94,7 +94,7 @@
     * By Polygon Pictures, makers of Ajin.
     * Its concept is based on No Longer Human.
 
-- Gakuen Heaven `[anime][shounen-ai][mal:anime:850][opinion:disliked]`
+- Gakuen Heaven `[anime][gay][mal:anime:850][opinion:disliked]`
     * From AarinFantasy.
     * It's based on a visual novel.
     * The opening ("School Boys") was fine.
@@ -114,12 +114,11 @@
 - Bakemonogatari `[anime][mal:anime:5081]`
     * Araragi's Japanese voice is cool.
 
-- Given: Uragawa no Sonzai `[anime][shounen-ai][mal:anime:49053]`
+- Given: Uragawa no Sonzai `[anime][gay][mal:anime:49053]`
     * From AarinFantasy.
 
-- Under the Green Light (season 1) by JAXX `[yaoi][manhwa][mangaupdates:15270418225][opinion:liked]`
-    * Season 1 is ch1-ch37
-    * Akaito: Is it complete yet?
+- Under the Green Light (season 1) by JAXX `[manga][manhwa][yaoi][mangaupdates:15270418225][opinion:liked]`
+    * Season 1 is ch1-ch37.
     * https://yaoimangaonline.com/under-the-green-light-by-jaxx-eng/
 
 - Planet Zero - Shinedown `[album][opinion:liked]`
@@ -148,13 +147,13 @@
     * Episode 3 had "Never Gonna Give You Up" by Rick as ringtone.
     * It mentioned Spice Girls - Wannabe.
 
-- Fake `[OVA][shounen-ai][ANN:anime:146][MAL:anime:365][opinion:meh]`
+- Fake `[anime][OVA][gay][ann:anime:146][mal:anime:365][opinion:meh]`
     * From AarinFantasy, encoded by LadyN.
 
 - Link Click `[anime][Chinese][mal:anime:44074][opinion:liked]`
     * "The art style looks like some kind of webcomic brought to life"
         - Gigguk,
-        China Is Taking Over Your Favourite Anime (https://www.youtube.com/watch?v=bI9PtkURa-g)
+        [China Is Taking Over Your Favourite Anime](https://www.youtube.com/watch?v=bI9PtkURa-g)
     * I loved the art style and animation.
 - Link Click Episode 5.5 `[OVA][mal:anime:49200]`
     * [ ] What actually happened at the end? What was the trick? And did the subjects have a child before marriage?
@@ -191,17 +190,17 @@
     * The "White Rabbit" song that plays around 25 mins is cool.
     * Fight sequences were boring--unbearable to watch, even.
 
-- Charlie the Unicorn 1-5: The Complete Series `[opinion:loved]`
+- Charlie the Unicorn 1-5: The Complete Series `[animation][imdb:tt15526688][opinion:loved]`
     * https://www.youtube.com/watch?v=bKd_2vqPrmU
 
 - Hellraiser `[2022][opinion:ok]`
 
-- Dune `[2021][casts:Timothée Chalamet][AKA:Dune: Part One][opinion:ok]`
+- Dune `[2021][casts:Timothée Chalamet][aka:Dune: Part One][opinion:ok]`
     * Stars that twink from Call Me By Your Name.
 
 - Pan's Labyrinth `[2006][Spanish][English sub][opinion:liked]`
 
-- The Platform `[2019][English dub][opinion:loved]`
+- The Platform `[2019][English dub][imdb:tt8228288][opinion:loved]`
     * My favorite character was Trimagasi (played by Zorion Eguileor).
 - The Platform `[2019][Spanish][English sub]`
     * I think I prefer the English dub.
@@ -219,19 +218,19 @@
     * I've only watched it because it stars the hazel-eyed, Irish, pretty boy Robert Sheehan.
     * There was no new idea, and the rehashed concepts were not implemented expectionally or impressively.
 
-- 3-gatsu no Lion (season 1) `[anime][mal:anime:31646][season:1][episodes:11][opinion:ok]`
+- 3-gatsu no Lion (season 1) `[anime][mal:anime:31646][dropped][season:1][episodes:11][opinion:ok]`
     * Eisuke recommended it.
-    * Dropped/Stopped at S01E11. It was fine, just not my type.
+    * Stopped at S01E11. It was fine, just not my type.
 
 - Archer (season 13) `[cartoon][opinion:ok]`
 
-- The Starving Games `[film][2013][parody][imdb:tt2403029][opinion:ok]`
+- The Starving Games `[2013][film][parody][imdb:tt2403029][opinion:ok]`
     * It had a 3/10 IMDb rating when I added it to my watchlist.
     * For a parody movie, I think it was _fine_. It made me laugh a few times.
 
-- Geostorm `[2017][scifi][casts:Robert Sheehan][opinion:meh]`
+- Geostorm `[2017][scifi][film][casts:Robert Sheehan][opinion:meh]`
 
-- Oxygen `[2021][French][scifi][opinion:ok]`
+- Oxygen `[2021][French][scifi][film][imdb:tt6341832][opinion:ok]`
     * I had many engineering issues with the movie.
         Examples:
         1. She asked the AI if there were any functions she could disable without reducing her life expectancy. The AI said there were none. The AI forgot about _euthanasia_.
@@ -241,9 +240,9 @@
         5. Needing time to ingore security restrictions and reroute oxygen. Why is this even possible?
         6. Sometimes the AI is made to seem smart (understanding and suggesting complex thoughts/plans) and other times they are super dumb (suggesting sedatives, but not to reroute oxygen).
     * "All in all, a very mediocre-bad sci-fi movie. Reminded me of Gravity in many ways."
-      -- https://www.reddit.com/r/movies/comments/ncolxy/comment/gy8lm38/?utm_source=share&utm_medium=web2x&context=3
+      -- [Reddit comment](https://www.reddit.com/r/movies/comments/ncolxy/comment/gy8lm38/?utm_source=share&utm_medium=web2x&context=3)
 
-- Inception - Teminite `[music album][dubstep][opinion:liked]`
+- Inception - Teminite `[dubstep][music][album][opinion:liked]`
     * https://www.youtube.com/watch?v=0m-09mxAvlY
 
 - Bros `[2022][film][gay][opinion:ok]`
@@ -289,7 +288,7 @@
 
 ## Doing
 
-- I Hear the Sunspot `[manga][shounen-ai][mal:manga:84255][mangaupdates:1687998587][publisher:One Peace Books]`
+- I Hear the Sunspot `[manga][gay][mal:manga:84255][mangaupdates:1687998587][publisher:One Peace Books]`
     * https://www.mangaupdates.com/series.html?id=106455
 - I Hear the Sunspot: Theory of Happiness `[manga][mal:manga:112090][publisher:One Peace Books]`
 - [~] I Hear the Sunspot: Limit `[manga][mal:manga:112091][publisher:One Peace Books]`

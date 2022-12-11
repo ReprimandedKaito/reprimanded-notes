@@ -1,12 +1,12 @@
 # Joyless 2019
 
-- Milenge Milenge `[2010][Indian][Arabic sub][opinion:6]`
+- Milenge Milenge `[2010][Indian][Arabic sub][opinion:liked]`
 
-- Ultraviolet `[2006][French dub][opinion:6]`
+- Ultraviolet `[2006][French dub][opinion:liked]`
 
-- Jack Et La Mecanique Du Coeur `[2013][French][opinion:7]`
+- Jack Et La Mecanique Du Coeur `[2013][French][opinion:liked]`
 
-- Droles D'oiseaux `[2013][French][opinion:4]`
+- Droles D'oiseaux `[2013][French][opinion:meh]`
 
 - Molly's Game `[2017]`
 
@@ -16,32 +16,32 @@
 
 - Bird Box `[2018][opinion:liked]`
 
-- I Want to Eat Your Pancreas `[2018][Japanese][Arabic sub][opinion:4]`
+- I Want to Eat Your Pancreas `[2018][anime][Arabic sub][opinion:meh]`
 
-- Dreamworks Spooky Stories `[2012][French dub][opinion:4]`
+- Dreamworks Spooky Stories `[2012][French dub][opinion:meh]`
 
 - Persona 5: The Animation `[anime][English sub][opinion:meh]`
 
 - Akame Ga Kill `[anime][Arabic sub]`
 
-- 1985 `[film][2018][gay][opinion:6]`
+- 1985 `[film][2018][gay][opinion:liked]`
 
-- Classroom of the Elite `[anime][English dub][opinion:7]`
+- Classroom of the Elite `[anime][English dub][opinion:liked]`
 
-- Lucifer `[series][S:01][opinion:6]`
+- Lucifer `[series][S:01][opinion:liked]`
 
-- Electric Dreams `[series][S:01][opinion:8]`
+- Electric Dreams (season 1) `[series][imdb:tt5711280][opinion:loved]`
 
-- Prayers for Bobby `[2009][gay][opinion:loved]`
+- Prayers for Bobby `[2009][gay][film][imdb:tt1073510][opinion:loved]`
 
 - The Man Who Sued God `[2001][opinion:ok]`
     * I only liked the premise and the in-court scenes.
 
-- Out In The Dark `[2012][gay][Arabic][Hebrew][English sub][opinion:8]`
+- Out In The Dark `[2012][gay][Arabic][Hebrew][English sub][opinion:loved]`
 
 - Elvira: Mistress of the Dark `[1988]`
 
-- Banana Fish `[anime][E:15][ann:20197][opinion:3]`
+- Banana Fish `[anime][dropped][E:15][ann:20197][opinion:disliked]`
 
 - Hitorijime My Hero `[anime][gay][English sub][opinion:liked]`
 
@@ -65,7 +65,7 @@
 
 - Identity `[2003]`
 
-- Gattaca `[1997][opinion:7]`
+- Gattaca `[1997][opinion:liked]`
 
 - The Wolf of Wall Street `[2013][opinion:disliked]`
 
@@ -75,9 +75,9 @@
 
 - Anti Matter `[2016]`
 
-- Demon City Shinjuku `[1988][Japanese][English sub][opinion:liked][rewatched]`
+- Demon City Shinjuku `[1988][Japanese][English sub][rewatched][opinion:liked]`
 
-- Dr Strangelove `[1964][opinion:liked]`
+- Dr. Strangelove `[1964][imdb:tt0057012][opinion:liked]`
 
 - Beach Rats `[2017][gay][drama][opinion:disliked]`
 
@@ -95,11 +95,11 @@
 
 - Death Note `[2017][opinion:disliked]`
 
-- Candlelight in Algeria `[1944][opinion:6]`
+- Candlelight in Algeria `[1944][opinion:liked]`
 
-- Algiers `[1938][opinion:6]`
+- Algiers `[1938][opinion:liked]`
 
-- Casbah `[1948][opinion:4]`
+- Casbah `[1948][opinion:meh]`
 
 - Plan 9 from Outer Space `[1959][opinion:disliked]`
 
@@ -109,11 +109,11 @@
 
 - The Ten Commandments Movie `[1956][opinion:liked]`
 
-- Ajin `[anime][S:02][Arabic sub, English dub][imdb:tt5537534][opinion:9]`
+- Ajin (season 2) `[anime][Arabic sub][English dub][mal:anime:33253][imdb:tt5537534][opinion:loved]`
 
 - Bruce Almighty `[2003][opinion:disliked]`
 
-- Game of Thrones `[series][S:08][opinion:loved]`
+- Game of Thrones `[series][S:08][imdb:tt0944947][opinion:loved]`
 
 - BoJack Horseman `[cartoon][S:05][imdb:tt3398228][opinion:loved]`
 
@@ -121,9 +121,9 @@
 
 - Knights of Badassdom `[2013][opinion:disliked]`
 
-- Dollhouse `[series][opinion:8]`
+- Dollhouse `[series][imdb:tt1135300][opinion:loved]`
 
-- Firefly `[series]`
+- Firefly `[series][opinion:liked]`
 - Serenity `[2005][opinion:liked]`
 
 - Buffy The Vampire Slayer `[series][S:01]`
@@ -131,7 +131,7 @@
 
 - An Interview With God `[2018][opinion:disliked]`
 
-- Altered Carbon `[series][S:01][opinion:8]`
+- Altered Carbon `[series][S:01][opinion:loved]`
 
 - Closer To God `[2014][opinion:disliked]`
 
@@ -141,7 +141,7 @@
 
 - The Messenger: The Story Of Joan Of Arc `[1999]`
 
-- South Park: Bigger, Longer & Uncut `[1999][opinion:8]`
+- South Park: Bigger, Longer & Uncut `[1999][opinion:loved]`
 
 - Being Human (UK) `[series][S:05][casts:Aidan Turner][opinion:liked]`
 
@@ -160,13 +160,14 @@
 
 - Two Night Stand `[2014]`
 
-- Carol `[2015][lesbian][opinion:7]`
+- Carol `[2015][lesbian][opinion:liked]`
 
 - Shazam! `[2019][opinion:meh]`
 
 - Alice In Murderland `[2010][opinion:disliked]`
 
-- Inequality for All `[2013]["basically a lecture"]`
+- Inequality for All `[2013][imdb:tt2215151]`
+    * Basically a lecture.
 
 - Johnny Mnemonic `[1995]`
 
@@ -177,7 +178,7 @@
 
 - Gaslight `[1944][opinion:liked]`
 
-- Idiocracy `[2006][opinion:5][rewatched]`
+- Idiocracy `[2006][rewatched][opinion:ok]`
 
 - Dante's Cove `[series][gay][S:03][opinion:disliked]`
 
@@ -191,19 +192,21 @@
 
 - Laid in America `[2016][opinion:liked]`
 
-- Zootopia `[2016][opinion:7]`
+- Zootopia `[2016][opinion:liked]`
 
 - Radius `[2017][opinion:disliked]`
 
 - A Clockwork Orange `[1971][opinion:liked]`
 
-- Arrival `[2016][opinion:5]["only the meaning-oriented writing system is interesting"]`
+- Arrival `[2016][opinion:ok]`
+    * Only the meaning-oriented writing system is interesting.
 
-- The Miracle Worker `[1962][opinion:7]`
+- The Miracle Worker `[1962][opinion:liked]`
 
-- Dredd `[2012]["Cersei is Ma-Ma"]`
+- Dredd `[2012][casts:Lena Headey]`
+    * Cersei is Ma-Ma.
 
-- Kakegurui - Compulsive Gambler `[anime][S:02][opinion:disliked]`
+- Kakegurui: Compulsive Gambler (season 2) `[anime][mal:anime:37086][opinion:disliked]`
 
 - Murder by Numbers `[2002]`
 
@@ -213,9 +216,10 @@
 
 - Requiem For A Dream `[2000][opinion:liked]`
 
-- Equilibrium `[2002]["it has some 1984 vibes and themes"]`
+- Equilibrium `[2002]`
+    * It has some 1984 vibes and themes.
 
-- Circle - Two Worlds Connected `[series][Korean]`
+- Circle - Two Worlds Connected `[series][Korean][opinion:liked]`
 
 - Missing Link `[2019][animation][opinion:meh]`
 
@@ -225,9 +229,9 @@
 
 - Peter Rabbit `[2018][opinion:disliked]`
 
-- Futurama `[cartoon][S:07][opinion:8]`
+- Futurama `[cartoon][S:07][opinion:loved]`
 
-- The Simpsons `[cartoon][S:29][opinion:9]`
+- The Simpsons `[cartoon][S:29][opinion:liked]`
 
 - Family Guy `[cartoon][S:11][opinion:liked]`
 
@@ -236,7 +240,7 @@
 - Porco Rosso `[1992][opinion:disliked]`
 - Princess Mononoke `[1997][English dub][opinion:liked]`
 - Spirited Away `[2001][Japanese][English sub][opinion:liked]`
-- Howl's Moving Castle `[2004][Japanese][English sub][opinion:9]`
+- Howl's Moving Castle `[2004][Japanese][English sub][opinion:loved]`
 - A Letter to Momo `[2011]`
 
 - Liar Game `[series][S:02][Japanese][English sub][opinion:liked]`
@@ -244,29 +248,33 @@
 - Liar Game: Reborn `[2012][Japanese]`
 
 - Final Fantasy 7 - Machinabridged `[series][S:04][imdb:tt5037560][opinion:loved]`
-- Final Fantasy VII: Advent Children `[2005][opinion:8]`
+- Final Fantasy VII: Advent Children `[2005][opinion:liked]`
 - Last Order: Final Fantasy VII `[anime][OVA]`
-- Final Fantasy VII Remake `[game][2020][["ProJared's playthrough"]`
-- Crisis Core: Final Fantasy VII `[video]["video game movie"][youtube:BB0r1vC79gE]`
+- Final Fantasy VII Remake `[game][2020]`
+    * Just watched ProJared's playthrough.
+- Crisis Core: Final Fantasy VII `[game]`
+    * Just watched a video game movie: https://www.youtube.com/watch?v=BB0r1vC79gE
 - [ ] Before Crisis: Final Fantasy VII `[2004][game]`
 - [ ] Dirge of Cerberus: Final Fantasy VII `[2006][game]`
 - Kingsglaive: Final Fantasy XV `[2016]`
 
-- Black Butler `[anime][S:03][imdb:tt1316554][English dub]`
+- Black Butler `[anime][English dub][S:03][imdb:tt1316554]`
 - Black Butler: Book of Circus `[anime][imdb:tt3639888][opinion:liked]`
 - [ ] Black Butler: Book of Murder `[2014][imdb:tt5714216]`
 - Black Butler II `[anime][opinion:disliked]`
 
-- Bungo Stray Dogs `[anime][S:03][opinion:liked]`
+- Bungo Stray Dogs (season 3) `[anime][mal:anime:38003][opinion:liked]`
 - Bungo Stray Dogs: Dead Apple `[2018]`
 
-- Danganronpa V3 `[game][imdb:tt6184830][vndb:v18334]["JohneAwesome's Let's Play"][opinion:9]`
+- Danganronpa V3 `[game][imdb:tt6184830][vndb:v18334][opinion:loved]`
+    * JohneAwesome's Let's Play.
 - Danganronpa Another Episode: Ultra Despair Girls `[game][imdb:tt4229138]`
 - Freetime Event: Poolside Edition `[game][vndb:v22415]`
 - Freetime Event: Theatrical Release `[game][vndb:v22416]`
 
 - Dragonheart `[1996]`
-- Dragonheart 3: The Sorcerers Curse `[2015]["cool main actor"]`
+- Dragonheart 3: The Sorcerers Curse `[2015]`
+    * Cool main actor.
 - Dragonheart: Battle For The Heartfire `[2017]`
 
 - Cube `[1997]`

@@ -3,8 +3,13 @@
 
 # Design systems
 
-Interesting, web design:
-- [Search – Carbon Design System](https://www.carbondesignsystem.com/patterns/search-pattern/)
+- Carbon Design System
+    * https://www.carbondesignsystem.com
+    * [Search pattern – Carbon Design System](https://www.carbondesignsystem.com/patterns/search-pattern/)
+
+- Ant Design
+    * https://github.com/ant-design/ant-design
+    * https://ant.design
 
 - Material UI
 
@@ -93,6 +98,10 @@ Masala Parser is a Javascript implementation of the Haskell Parsec. It is plain 
 # Search input
 Trying to make a Discord-like search input
 
+- Similar syntaxes to Google's search queries #interesting
+    * Microsoft's KQL  https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+    * Apache Solr's Standard Query Parser
+
 #interesting #useful
 - [ ] https://github.com/zurb/tribute
 "ES6 Native @mentions"
@@ -111,7 +120,7 @@ https://dribbble.com/shots/17063596-Clew-Universal-search
 
 # Search engines
 
-- [ ] Lunr https://lunrjs.com
+- [x] Lunr https://lunrjs.com
     * "Lunr: A bit like Solr, but much smaller and not as bright"
     * https://github.com/olivernn/lunr.js
 
@@ -119,11 +128,33 @@ https://dribbble.com/shots/17063596-Clew-Universal-search
 - [ ] Fuse.js https://fusejs.io
     * "Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies."
 
+    * Fuse.js extended search syntax:
+    https://fusejs.io/examples.html#extended-search
+
     * [ ] [Using Fuse.js to add dynamic search to a React app | LogRocket  Blog](https://blog.logrocket.com/fuse-js-dynamic-search-react-app/)
     By Danny Guo, April 5, 2021
     
     * Used by
-        https://github.com/tagspaces/tagspaces
+        + https://github.com/tagspaces/tagspaces
+
+- [ ] Elasticlunr.js
+    https://github.com/weixsong/elasticlunr.js
+    "Based on lunr.js, but more flexible and customized."
+
+
+## OpenSearch
+`.osdx`
+
+- Spec https://github.com/dewitt/opensearch
+
+- [Creating an OpenSearch Description File in Windows Federated Search - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/search/-search-federated-search-osdx-file)
+
+- [OpenSearch description format | MDN](https://developer.mozilla.org/en-US/docs/Web/OpenSearch)
+
+HTML:
+```html
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch.osdx" title="Kaito">
+```
 
 
 ## Web frameworks: Blogging
@@ -244,21 +275,6 @@ Zero config node bundlers/servers
 - Parcel https://github.com/parcel-bundler/parcel
 
 - Zero Server https://zeroserver.io/
-
-
-## OpenSearch
-`.osdx`
-
-- Spec https://github.com/dewitt/opensearch
-
-- [Creating an OpenSearch Description File in Windows Federated Search - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/search/-search-federated-search-osdx-file)
-
-- [OpenSearch description format | MDN](https://developer.mozilla.org/en-US/docs/Web/OpenSearch)
-
-HTML:
-```html
-<link rel="search" type="application/opensearchdescription+xml" href="opensearch.osdx" title="Kaito">
-```
 
 
 ## Petri Net Viz

@@ -1,5 +1,9 @@
 # Joyless
 
+See https://joyless.vercel.app instead.
+
+---
+
 - [Todos](./joyless-todo.md)
 
 ---
@@ -19,3 +23,7 @@
 - [Misc](./joyless-misc.md)
 
 - [Misc/Childhood](./joyless-childhood.md)
+
+---
+
+END.

@@ -271,7 +271,7 @@ Note: ProJared recommends FF pixel remasters
 
 ## Gay shit
 
-- [ ] The Founder of Diabolism `[anime][shounen-ai][Chinese][English sub][mal:anime:37208]`
+- [ ] The Founder of Diabolism `[anime][gay][Chinese][English sub][mal:anime:37208]`
     * Downloaded all 3 seasons
 
 - [ ] The Night Beyond the Tricornered Window `[anime][yaoi][AKA:Sankaku Mado no Sotogawa wa Yoru][mal:anime:44387]`
@@ -292,7 +292,7 @@ Note: ProJared recommends FF pixel remasters
     * https://www.mangaupdates.com/series/0cy8ra7/harukaze-no-etranger
     * [ ] Still ongoing?
 
-- [ ] The Two Lions `[manga][shounen-ai][mal:manga:114065]`
+- [ ] The Two Lions `[manga][gay][mal:manga:114065]`
     * Downloaded
 
 - [ ] My Own Private Idaho `[1991][film]`
@@ -334,11 +334,6 @@ Note: ProJared recommends FF pixel remasters
 
 - [ ] Sekaiichi Hatsukoi `[anime][yaoi][alt:Sekai Ichi Hatsukoi - World's Greatest First Love][mal:anime:9926]`
     * Mentioned in Natz' "Top 10 Boys Love Anime" (2022)
-
-- [ ] Antidote `[novel][shounen-ai]`
-    * https://www.novelupdates.com/series/antidote/
-    * https://justblthings.wordpress.com/antidote-jie-yao-by-wu-zhe/
-- [ ] Antidote `[manga]`
 
 - [ ] Don't Pick Up the Soap `[manga][manhwa][yaoi]`
     * MangaUpdates https://www.mangaupdates.com/series.html?id=152776

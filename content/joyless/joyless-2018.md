@@ -41,7 +41,8 @@ This is an incomplete list of what I watched in 2018
 
 - Passengers `[2016][opinion:5]`
 
-- Venom `[2018][film]["liked the ending song"]`
+- Venom `[2018][film]`
+    * Liked the ending song.
 
 - God's Own Country `[2017][gay]`
 
@@ -59,7 +60,7 @@ This is an incomplete list of what I watched in 2018
 
 - Dirty Grandpa `[2016][opinion:liked]`
 
-- The Mummy `[2017][opinion:6]`
+- The Mummy `[2017][opinion:liked]`
 
 - Queer as Folk (US) `[series][imdb:tt0262985][opinion:loved]`
 
@@ -67,7 +68,7 @@ This is an incomplete list of what I watched in 2018
 
 - London Spy `[series][S:01][opinion:liked]`
 
-- Mr Robot `[series][S:02]`
+- Mr. Robot (season 2) `[series][imdb:tt4158110]`
 
 - Silicon Valley `[series][S:02][opinion:meh]`
 
@@ -87,7 +88,7 @@ This is an incomplete list of what I watched in 2018
 
 - Mayo Chiki! `[anime]`
 
-- The Golden Compass `[film][2007]["watched in 2018 or before"]`
+- The Golden Compass `[film][2007]`
 
 ---
 

@@ -5,18 +5,14 @@
     * Has a "reverse linear"(?) narrative.
     * https://en.wikipedia.org/wiki/A_Rose_for_Emily
 
+- Alice in Borderland `[manga][mal:manga:33031][opinion:loved]`
 - Alice in Borderland Retry `[manga][mal:manga:130593]`
     * Joyless 2021
     * https://mangadex.org/title/56129/alice-in-borderland-retry
 
-- Beastars
+- Beastars `[manga]`
     * Joyless 2021?
     * In my opinion, the manga Beastars's genres should be drama, angst, and slice of life.
-
-- La Femme Nikita `[1990][French dub]`
-- [ ] La Femme Nikita `[1990][English dub]`
-
-- Dante's Inferno: An Animated Epic `[2010][opinion:liked][rewatchable]`
 
 ---
 
@@ -25,6 +21,9 @@
 - Animal Farm `[1954][opinion:liked]`
 
 - The Abyss `[1989]`
+
+- La Femme Nikita `[1990][French dub]`
+- [ ] La Femme Nikita `[1990][English dub]`
 
 - Gattaca `[1997][dystopian][film][imdb:tt0119177][opinion:liked]`
 
@@ -58,6 +57,8 @@
 - Inception `[2010]`
 
 - Fate/stay night: Unlimited Blade Works `[2010][film][mal:anime:6922][Arabic sub][opinion:liked]`
+
+- Dante's Inferno: An Animated Epic `[2010][rewatchable][opinion:liked]`
 
 - Extraordinary Tales `[2013][film][animation][rewatchable][imdb:tt3454574][opinion:loved]`
 
